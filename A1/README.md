@@ -1,6 +1,35 @@
-----------------------------------------------------
------------------------- List of A1 grammar rules
-----------------------------------------------------
+# List of A1 grammar rules
+
+## Vocabulary
+
+- Alfabeto y fonética básica
+- Números (0-100)
+- Saludos y presentaciones
+- Países y nacionalidades
+- Profesiones comunes
+- Familia y relaciones
+- Colores
+- Días de la semana y meses del año
+- La hora
+- Objetos cotidianos y del aula
+- Partes del cuerpo
+- Comida y bebida básica
+- Ropa
+- Actividades diarias y rutinas
+- Clima y estaciones del año
+
+## Grammar
+
+- Verbos básicos en presente simple
+- Pronombres personales
+- Adjetivos posesivos
+- Artículos (a, an, the)
+- Preposiciones de lugar básicas (in, on, at, under)
+- Preguntas simples (who, what, where, when, how)
+- Expresiones de gustos y preferencias (like, don't like)
+- Expresiones de habilidad básica (can, can't)
+- Imperativo simple (instrucciones básicas)
+- Números ordinales (1st, 2nd, 3rd)
 
 ------> Present tenses <------
 
