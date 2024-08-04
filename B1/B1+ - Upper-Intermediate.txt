@@ -1,0 +1,75 @@
+----------------------------------------------------
+------------------------ List of B2 grammar rules
+----------------------------------------------------
+
+---> Past tenses
+- Narrative tense: past simple, past continuous, past perfect simple, past perfect continuous.
+- Repeated actions in the past: used to + infinitive. Also used for situations or states that are no longer true.
+- Repeated actions in the past: would + infinitive.
+
+---> Future tenses
+- Future forms: present continuous, be going to, future continuous, present simple (for future events that are scheduled or timetabled).
+- Predictions: will, be going to.
+- Future perfect: future perfect simple, future perfect continuous.
+- Future time clauses (use present simple to talk about the future in sentences with when, as soon as, until, before, after).
+- Other uses of will.
+  - Instant decisions: "Oh, we don’t have sugar.’ ‘Don’t worry, I’ll buy some."
+  - Promises and refusals: "I will help you whenever you need me." "I won’t lend him my car."
+  - Future facts: "The president will visit the Vatican next November."
+  - Offers: "I’ll carry that bag for you." "Shall I organise the meeting?"
+  - Suggestions: "Shall we eat out today?"
+  - Requests: "Will you open the door, please?"
+> Other ways to express future.
+  - be about to: we often use be about to + infinitive to say that something will happen in a very near future.
+    - "Some apps are about to disappear from the market."
+    - "Scientists say they are about to find a vaccine."
+  - be on the brink/verge/point of: We can also use be on the brink of, be on the verge of or be on the point of to say that something will happen very soon.
+    - "Our country’s economy is on the brink of collapse."
+    - "This historical museum is on the brink of losing half its masterpieces."
+    - "They are on the verge of becoming the team to win more finals in history."
+    - "The two historical enemies are on the point of reaching an agreement."
+  - be due to: We use be due to + infinitive to talk about things that are planned or expected to happen.
+    - "Greece is due to repay around £6 billion to its creditors next semester."
+    - "The secretary is due to arrive in Montreal tomorrow morning."
+  - be to + infinitive: we can use it in different situations.
+    - Official arrangements: (be to + infinitive) is often used in news reports to talk about official arrangements and about events that are planned or expected to happen. The meaning is usually something like ‘it is expected’.
+      - "Prince William is to visit Paris for the first time since his mother died." ("It is expected that Prince William will...").
+      - "Nine care homes for the elderly are to close by the end of March."
+    - Formal instructions and orders: we can also use be to + infinitive to talk about official instructions and orders. When used in the negative form, it expresses prohibition.
+      - "All employees are to attend a health and safety orientation at the end of the week."
+      - "You are not to leave this room until I say so."
+    - If clauses: we often use be to + infinitive in a if-clause. In these cases, we say what should be done (main clause) to achieve the desired result (if-clause).
+      - "We need to be open to everybody’s opinion if we are to avoid repeating the mistakes of the past."
+      - "If he is to succeed, he will need to learn to represent the interests of all Americans."
+  - be bound to: we use be bound to + infinitive to say that something is certain or very likely to happen.
+    - "They are bound to like him. He is such a sweet guy."
+    - "His new film is bound to win the heart of of every romantic out there."
+  - be likely to:
+    - We use be likely to + infinitive to say that something will probably happen. We can also use It + be likely that + clause.
+      - "The government is likely to pass new regulations very soon."
+      - "It’s likely that the company will have to pay for the damages."
+    - We use be unlikely + infinitive to say that something will probably not happen. We can also use It + be unlikely that + clause.
+      - "He is unlikely to win this match."
+      - "It's unlikely that the weather will change over the next days."
+> Future in the past
+  - When we are talking about a past event and we want to refer to something that happened in the future at that particular point in the past.
+  - Cases:
+    - Would: "We thought he would win the election"
+    - Was going to: "We were going to have a drink after work, but the boss made us wok till late".
+    - past continuous: "she was getting married soon and she wanted me to be her maid of honour".
+    - would be + -ing: "when she told me she wouldn't be going home that summer, i felt miserable".
+    - would have + past participle: "when I found him, he said he would have finished the book in a couple of weeks".
+    
+---> Modals, the imperative, etc.
+
+---> Conditionals, if, wish, etc.
+
+---> Passive
+
+---> -ing and the infinitive
+
+---> Articles, nouns, pronouns, and determiners.
+
+---> Relative clauses, relative pronouns and adverbs
+
+---> There and It
