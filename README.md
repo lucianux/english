@@ -7,3 +7,8 @@ Según el Marco Común Europeo de Referencia para las Lenguas (MCER) existen los
 # Fuentes
 
 https://test-english.com/
+
+# IAs
+
+- Claude
+- ChatGPT
