@@ -31,7 +31,7 @@
 - Imperativo simple (instrucciones básicas)
 - Números ordinales (1st, 2nd, 3rd)
 
-------> Present tenses <------
+### Present tenses
 
 ******* Present simple forms of 'to be' – am/is/are
 

@@ -8,7 +8,8 @@ Según el Marco Común Europeo de Referencia para las Lenguas (MCER) existen los
 
 https://test-english.com/
 
-# IAs
+# Tools
 
-- Claude
-- ChatGPT
+- Claude (IA)
+- ChatGPT (IA)
+- https://translate.google.com/
