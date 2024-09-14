@@ -57,7 +57,7 @@
 
 #### Questions and short answer
 
-- Am I? ... Yes, I am - No, I am not    - No, I'm not
+- Am I?     - Yes, I am     - No, I am not    - No, I'm not
 - Are you?  - Yes, You are  - No, You are not - No, You're not - No, You aren't
 - Is He?    - Yes, He is    - No, He is not   - No, He's not   - No, He isn't
 - Is She?   - Yes, She is   - No, She is not  - No, She's not  - No, She isn't
