@@ -141,16 +141,17 @@ Remember: for the present simple we need to use the verb do/does in questions an
 
 The form is the same for all the other persons except he/she/it. The spelling for he/she/it is different in positive.
 
-Infinitive   He/She/It     Spelling Rules
-play         plays         general rule => add -s
-work         works         general rule => add -s
-watch        watches       after -s, -ch, -sh, -z => add -es
-miss         misses        after -s, -ch, -sh, -z => add -es
-study        studies       after a consonant + -y => delete -y and add -es
-try          tries         after a consonant + -y => delete -y and add -es
-do           does          Exceptions: add -es
-go           goes          Exceptions: add -es
-have         has           irregular form
+|Infinitive  |He/She/It    |Spelling Rules                                 |
+|------------|-------------|-----------------------------------------------|
+|play        |plays        |general rule => add -s                         |
+|work        |works        |general rule => add -s                         |
+|watch       |watches      |after -s, -ch, -sh, -z => add -es              |
+|miss        |misses       |after -s, -ch, -sh, -z => add -es              |
+|study       |studies      |after a consonant + -y => delete -y and add -es|
+|try         |tries        |after a consonant + -y => delete -y and add -es|
+|do          |does         |Exceptions: add -es                            |
+|go          |goes         |Exceptions: add -es                            |
+|have        |has          |irregular form                                 |
 
 - Present simple use
 -- Habits or actions that happen regularly
