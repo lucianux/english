@@ -36,6 +36,7 @@
 ### Present simple forms of 'to be' – am / is / are
 
 #### Positive
+
 - I am     ... I'm
 - You are  ... You're
 - He is    ... He's
@@ -45,21 +46,25 @@
 - They are ... They're
 
 #### Negative
+
 - I am not ... I'm not
-You are not  - You're not  - You aren't
-He is not    - He's not    - He isn't
-She is not   - She's not   - She isn't
-It is not    - It's not    - It isn't
-We are not   - We're not   - We aren't
-They are not - They're not - They aren't
--- Questions and short answer
-Am I?     - Yes, I am     - No, I am not    - No, I'm not
-Are you?  - Yes, You are  - No, You are not - No, You're not - No, You aren't
-Is He?    - Yes, He is    - No, He is not   - No, He's not   - No, He isn't
-Is She?   - Yes, She is   - No, She is not  - No, She's not  - No, She isn't
-Is It?    - Yes, It is    - No, It is not   - No, It's not   - No, It isn't
-Are We?   - Yes, We are   - No, We are not  - No, We're not  - No, we aren't
-Are They? - Yes, They are - No, They are not - No, They're not - No, They aren't
+- You are not ... You're not ... You aren't
+- He is not ... He's not ... He isn't
+- She is not ... She's not ... She isn't
+- It is not ... It's not ... It isn't
+- We are not ... We're not ... We aren't
+- They are not ... They're not ... They aren't
+
+#### Questions and short answer
+
+- Am I? ... Yes, I am - No, I am not    - No, I'm not
+- Are you?  - Yes, You are  - No, You are not - No, You're not - No, You aren't
+- Is He?    - Yes, He is    - No, He is not   - No, He's not   - No, He isn't
+- Is She?   - Yes, She is   - No, She is not  - No, She's not  - No, She isn't
+- Is It?    - Yes, It is    - No, It is not   - No, It's not   - No, It isn't
+- Are We?   - Yes, We are   - No, We are not  - No, We're not  - No, we aren't
+- Are They? - Yes, They are - No, They are not - No, They're not - No, They aren't
+
 Remember we cannot use short forms in positive short answers.
 For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
 
