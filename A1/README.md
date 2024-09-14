@@ -31,20 +31,21 @@
 - Imperativo simple (instrucciones básicas)
 - Números ordinales (1st, 2nd, 3rd)
 
-### Present tenses
+## Present tenses
 
-******* Present simple forms of 'to be' – am/is/are
+### Present simple forms of 'to be' – am / is / are
 
--- Positive
-I am     - I'm
-You are  - You're
-He is    - He's
-She is   - She's
-It is    - It's
-We are   - We're
-They are - They're
--- Negative
-I am not - I'm not
+#### Positive
+- I am     ... I'm
+- You are  ... You're
+- He is    ... He's
+- She is   ... She's
+- It is    ... It's
+- We are   ... We're
+- They are ... They're
+
+#### Negative
+- I am not ... I'm not
 You are not  - You're not  - You aren't
 He is not    - He's not    - He isn't
 She is not   - She's not   - She isn't
