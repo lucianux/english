@@ -87,25 +87,21 @@ For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
 - But we can also use ‘s with names. Examples:
   - Laura’s beautiful.
   - London’s an expensive city.
-
-- Contractions in short answers
--- We can only use contractions in negative short answers. Not in positive short answers.
-Examples:
-Yes, I am. (NOT Yes, I’m.)
-Yes, she is. (NOT Yes, she’s.)
-Yes, they are. (NOT Yes, they’re.)
-
-- We use the verb be to talk about:
-Who we are: I‘m Steven and this is Isabella. And this is my daughter, Alicia.
-Age: I‘m 24 years old and my father is 50. 
-Job: I‘m a teacher and my wife is a doctor. 
-Nationality: Alex is from Ireland, and Sonia is from Spain.
-Feelings: I‘m scared. She is very tired. 
-Colour: Our dog is black. His eyes are blue.
-Prices: It‘s seven pounds. This T-shirt is twenty dollars.  
-The weather: It‘s sunny today. It is very cold this morning. 
-The time: What time is it? It‘s ten past four. 
-Descriptions in general: He is very short and thin. The cars are old and cheap.
+- Contractions in short answers: We can only use contractions in negative short answers. Not in positive short answers. Examples:
+  - Yes, I am. (NOT Yes, I’m.)
+  - Yes, she is. (NOT Yes, she’s.)
+  - Yes, they are. (NOT Yes, they’re.)
+- We use the verb "be" to talk about:
+  - Who we are: I‘m Steven and this is Isabella. And this is my daughter, Alicia.
+  - Age: I‘m 24 years old and my father is 50. 
+  - Job: I‘m a teacher and my wife is a doctor. 
+  - Nationality: Alex is from Ireland, and Sonia is from Spain.
+  - Feelings: I‘m scared. She is very tired. 
+  - Colour: Our dog is black. His eyes are blue.
+  - Prices: It‘s seven pounds. This T-shirt is twenty dollars.  
+  - The weather: It‘s sunny today. It is very cold this morning. 
+  - The time: What time is it? It‘s ten past four. 
+  - Descriptions in general: He is very short and thin. The cars are old and cheap.
 
 ******* Present simple – I do, I don’t, Do I?
 
