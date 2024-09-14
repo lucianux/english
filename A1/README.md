@@ -70,7 +70,7 @@ For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
 
 ### Tips
 
-- We use 'they' for people and for things. Examples:
+- We use 'they' for people and things. Examples:
   - I love Sara and Jonas. They are my friends.
   - I love these chairs. They are very beautiful.
 - We use 'he' for a man, 'she' for a woman and 'it' for a thing. Examples:
