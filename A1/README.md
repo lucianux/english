@@ -137,8 +137,10 @@ For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
 
 Remember: for the present simple we need to use the verb do/does in questions and don’t/doesn’t in negatives.
 
--- Spelling of he/she/it
+#### Spelling of he/she/it
+
 The form is the same for all the other persons except he/she/it. The spelling for he/she/it is different in positive.
+
 Infinitive   He/She/It     Spelling Rules
 play         plays         general rule => add -s
 work         works         general rule => add -s
