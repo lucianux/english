@@ -153,20 +153,18 @@ The form is the same for all the other persons except he/she/it. The spelling fo
 |go          |goes         |Exceptions: add -es                            |
 |have        |has          |irregular form                                 |
 
-- Present simple use
--- Habits or actions that happen regularly
-We use present simple for habits or actions that we repeat regularly.
-Examples:
-I wash my hair every day.
-I never go to the library.
-I go to the library on Saturdays.
--- Permanent situations or things that are always or often true
-Examples:
-I don’t drink coffee.
-She’s very tall.
-I have two brothers.
-Water boils at 100 degrees.
-I like soup.
+### Present simple - Uses
+
+- We use present simple for habits or actions that we repeat regularly. Examples:
+  - I wash my hair every day.
+  - I never go to the library.
+  - I go to the library on Saturdays.
+- Permanent situations or things that are always or often true. Examples:
+  - I don’t drink coffee.
+  - She’s very tall.
+  - I have two brothers.
+  - Water boils at 100 degrees.
+  - I like soup.
 
 ******* Present continuous – I’m doing, I’m not doing, Are you doing?
 
