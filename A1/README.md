@@ -103,34 +103,37 @@ For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
   - The time: What time is it? It‘s ten past four. 
   - Descriptions in general: He is very short and thin. The cars are old and cheap.
 
-******* Present simple – I do, I don’t, Do I?
+### Present simple – I do, I don’t, Do I?
 
--- Positive
-I work
-You work
-He works
-She works
-It works
-We work
-They work
+#### Positive
 
--- Negative
-I do not work     - I don't work
-You do not work   - You don't work
-He does not work  - He doesn't work
-She does not work - She doesn't work
-It does not work  - It doesn't work
-We do not work    - We don't work
-They do not work  - They don't work
+- I work
+- You work
+- He works
+- She works
+- It works
+- We work
+- They work
 
--- Questions and short answer
-Do I work?     - Yes, I do     - No, I do not     - No, I don't
-Do You work?   - Yes, You do   - No, You do not   - No, You don't
-Does He work?  - Yes, He does  - No, He does not  - No, He doesn't
-Does She work? - Yes, She does - No, She does not - No, She doesn't
-Does It work?  - Yes, It does  - No, It does not  - No, It doesn't
-Do We work?    - Yes, We do    - No, We do not    - No, We don't
-Do They work?  - Yes, They do  - No, They do not  - No, They don't
+#### Negative
+
+- I do not work     - I don't work
+- You do not work   - You don't work
+- He does not work  - He doesn't work
+- She does not work - She doesn't work
+- It does not work  - It doesn't work
+- We do not work    - We don't work
+- They do not work  - They don't work
+
+#### Questions and short answer
+
+- Do I work?     - Yes, I do     - No, I do not     - No, I don't
+- Do You work?   - Yes, You do   - No, You do not   - No, You don't
+- Does He work?  - Yes, He does  - No, He does not  - No, He doesn't
+- Does She work? - Yes, She does - No, She does not - No, She doesn't
+- Does It work?  - Yes, It does  - No, It does not  - No, It doesn't
+- Do We work?    - Yes, We do    - No, We do not    - No, We don't
+- Do They work?  - Yes, They do  - No, They do not  - No, They don't
 
 Remember: for the present simple we need to use the verb do/does in questions and don’t/doesn’t in negatives.
 
