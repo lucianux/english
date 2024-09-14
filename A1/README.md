@@ -68,34 +68,25 @@
 Remember we cannot use short forms in positive short answers.
 For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
 
-- Helper:
-They = People and things
--- We use 'he' for a man, 'she' for a woman and 'it' for a thing.
-Examples:
-He's a little boy. 
-She's beautiful. 
-I like this TV. It's very big.
--- We use 'they' for people and for things.
-Examples:
-I love Sara and Jonas. They are my friends.
-I love these chairs. They are very beautiful.
+### Tips
 
-- Don’t forget the subject
--- We always need a subject before the verb.
-Examples:
-It is cold. (NOT Is cold.)
-Sally is a wonderful woman. (NOT Is a wonderful woman.)
-
-- Contractions or short forms 
--- We use ‘m, ‘s and ‘re with personal pronouns (I, you, he, etc.)
-Examples:
-I’m sad.
-You’re tired.
-She’s from Scotland.
--- But we can also use ‘s with names.
-Examples:
-Laura’s beautiful.
-London’s an expensive city.
+- We use 'they' for people and for things. Examples:
+  - I love Sara and Jonas. They are my friends.
+  - I love these chairs. They are very beautiful.
+- We use 'he' for a man, 'she' for a woman and 'it' for a thing. Examples:
+  - He's a little boy.
+  - She's beautiful. 
+  - I like this TV. It's very big.
+- Don’t forget the subject: We always need a subject before the verb. Examples:
+  - It is cold. (NOT Is cold.)
+  - Sally is a wonderful woman. (NOT Is a wonderful woman.)
+- Contractions or short forms. We use ‘m, ‘s and ‘re with personal pronouns (I, you, he, etc.). Examples:
+  - I’m sad.
+  - You’re tired.
+  - She’s from Scotland.
+- But we can also use ‘s with names. Examples:
+  - Laura’s beautiful.
+  - London’s an expensive city.
 
 - Contractions in short answers
 -- We can only use contractions in negative short answers. Not in positive short answers.
