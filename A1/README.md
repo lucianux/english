@@ -190,18 +190,17 @@ The form is the same for all the other persons except he/she/it. The spelling fo
 
 #### Questions and short answer
 
-Am I working?      - Yes, I am     - No, I am not     - No, I'm not
-Are You working?   - Yes, You are  - No, You are not  - No, You aren't
-Is He working?     - Yes, He is    - No, He is not    - No, He isn't
-Is She working?    - Yes, She is   - No, She is not   - No, She isn't
-Is It working?     - Yes, It is    - No, It is not    - No, It isn't
-Are We working?    - Yes, We are   - No, We are not   - No, We aren't
-They We working?   - Yes, They are - No, They are not - No, They aren't
+- Am I working?      - Yes, I am     - No, I am not     - No, I'm not
+- Are You working?   - Yes, You are  - No, You are not  - No, You aren't
+- Is He working?     - Yes, He is    - No, He is not    - No, He isn't
+- Is She working?    - Yes, She is   - No, She is not   - No, She isn't
+- Is It working?     - Yes, It is    - No, It is not    - No, It isn't
+- Are We working?    - Yes, We are   - No, We are not   - No, We aren't
+- They We working?   - Yes, They are - No, They are not - No, They aren't
 
-Note that we can use short forms only in negative short answers, but not in positive short answers.
-Examples:
-‘Are you writing a book?’ ‘No, I’m not/I am not.’
-‘Are you writing a book?’ ‘Yes, I am.’ (NOT Yes, I’m.)
+Note that we can use short forms only in negative short answers, but not in positive short answers. Examples:
+- ‘Are you writing a book?’ ‘No, I’m not/I am not.’
+- ‘Are you writing a book?’ ‘Yes, I am.’ (NOT Yes, I’m.)
 
 -- -ing Spelling
 Infinitive     -ing        Spelling Rules
