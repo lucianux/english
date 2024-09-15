@@ -323,54 +323,55 @@ Examples
   - He‘s got brown hair and a long nose.
   - They‘ve got blue eyes.
 
-------> Past tenses <------
+## Past tenses
 
-******* was/were – past simple of ‘be’
+### Was/Were – Past simple of ‘be’
 
--- Positive
-I was
-He was
-She was
-It was
-You were
-We were
-They were
+#### Positive
 
--- Negative
-I was not     - I wasn't
-He was not    - He wasn't
-She was not   - She wasn't
-It was not    - It wasn't
-You were not  - You weren't
-We were not   - We weren't
-They were not - They weren't
+- I was
+- He was
+- She was
+- It was
+- You were
+- We were
+- They were
 
--- Questions and short answer
-Was I ?     - Yes, I was     - No, I was not     - No, I wasn't
-Was He ?    - Yes, He was    - No, He was not    - No, He wasn't
-Was She ?   - Yes, She was   - No, She was not   - No, She wasn't
-Was It ?    - Yes, It was    - No, It was not    - No, It wasn't
-Were You ?  - Yes, You were  - No, You were not  - No, You weren't
-Were We ?   - Yes, We were   - No, We were not   - No, We weren't
-Were They ? - Yes, They were - No, They were not - No, They weren't
+#### Negative
 
-In summary, Was/were are the past forms of am/is/are. Present: am/is = past: was. Present: are = past: were.
-Remember: the negative short forms of was not and were not are wasn’t and weren’t, but there are no short forms of was and were in affirmative sentences.
-Examples:
-Tom was tired, but Susan wasn’t very tired.
-Paul and Tom were happy, but we weren’t happy.
+- I was not     - I wasn't
+- He was not    - He wasn't
+- She was not   - She wasn't
+- It was not    - It wasn't
+- You were not  - You weren't
+- We were not   - We weren't
+- They were not - They weren't
 
-- Expressions
-We use was/were to talk about the past. We often use past expressions of time: yesterday, last night, last week, two months ago, etc.
-Examples:
-She was in Stuttgart last summer.
-We were late to the party last night.
+#### Questions and short answer
 
-- Was/Were born
-We use was/were in the expression was/were born. The expression be born is always past (NOT present): was/were born.
-Examples
-‘Where were you born?’ ‘I was born in Sweden.’ (NOT Where are you born? I am born...)
-Mozart was born in 1756.
+- Was I ?     - Yes, I was     - No, I was not     - No, I wasn't
+- Was He ?    - Yes, He was    - No, He was not    - No, He wasn't
+- Was She ?   - Yes, She was   - No, She was not   - No, She wasn't
+- Was It ?    - Yes, It was    - No, It was not    - No, It wasn't
+- Were You ?  - Yes, You were  - No, You were not  - No, You weren't
+- Were We ?   - Yes, We were   - No, We were not   - No, We weren't
+- Were They ? - Yes, They were - No, They were not - No, They weren't
+
+In summary, Was/were are the past forms of am/is/are. Present: am/is = past: was. Present: are => past: were.
+
+### Tips
+
+- Remember: the negative short forms of was not and were not are wasn’t and weren’t, but there are no short forms of was and were in affirmative sentences. Examples:
+  - Tom was tired, but Susan wasn’t very tired.
+  - Paul and Tom were happy, but we weren’t happy.
+  
+- Expressions. We use was/were to talk about the past. We often use past expressions of time: yesterday, last night, last week, two months ago, etc. Examples:
+  - She was in Stuttgart last summer.
+  - We were late to the party last night.
+  
+- Was/Were born. We use was/were in the expression was/were born. The expression be born is always past (NOT present): was/were born. Examples:
+  - ‘Where were you born?’ ‘I was born in Sweden.’ (NOT Where are you born? I am born...)
+  - Mozart was born in 1756.
 
 ******* Past simple – regular/irregular verbs
 
