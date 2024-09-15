@@ -213,21 +213,17 @@ Note that we can use short forms only in negative short answers, but not in posi
 |run           |running    |Consonant + vowel + consonant (stressed): double the consonant + -ing |
 |swim          |swimming   |Consonant + vowel + consonant (stressed): double the consonant + -ing |
 
-- How to use it
--- Actions happening now
-We use the present continuous for things happening now, at the moment of speaking.
-Example:
-‘What are you doing?’ ‘I‘m watching TV.’
--- Actions happening around now
-We use the present continuous for temporary things that are happening around now (=not at the moment of speaking but these days, or weeks, etc.)
-Example:
-I‘m reading a very good book at the moment. (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)
--- Now, these days, at the moment, etc.
-We use the present continuous with time expressions that mean ‘now’ or ‘around now’: now, at the moment, at present, today, these days, this week, etc.
+### Present continuous - How to use it
 
-******* Present simple or present continuous?
+- Actions happening now. We use the present continuous for things happening now, at the moment of speaking. Example:
+  - ‘What are you doing?’ ‘I‘m watching TV.’
+- Actions happening around now. We use the present continuous for temporary things that are happening around now (=not at the moment of speaking but these days, or weeks, etc.) Example:
+  - I‘m reading a very good book at the moment. (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)
+- Now, these days, at the moment, etc. We use the present continuous with time expressions that mean ‘now’ or ‘around now’: now, at the moment, at present, today, these days, this week, etc.
 
--- Present simple
+## Present simple or present continuous?
+
+### Present simple
 
 We use the present simple for habits or for permanent situations.
 
