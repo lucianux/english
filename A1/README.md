@@ -654,71 +654,61 @@ Can I / You / He / She / It / We / They sing ?
 - No, I / You / He / She / It / We / They cannot.
 - No, I / You / He / She / It / We / They can't.
 
-### Can, Can't / Use
+### Can, Can't - Use
 
--- Use 1 / Ability
-We use can/can’t to talk about ability in the present (=things that we know how to do).
-Examples:
-Laura can sing very well.
-I can’t speak German.
+- Use 1 - Ability. We use can/can’t to talk about ability in the present (=things that we know how to do). Examples:
+  - Laura can sing very well.
+  - I can’t speak German.
 
--- Use 2 / Possibility / Permission
-We use can/can’t to ask for permission or to say if something is possible or not.
-Examples:
-Can I sit here ?
-You can't park your car here.
-You can’t vote if you aren’t 18 years old.
-I’m sorry but I can’t come to the party.
-Can you go ?
+- Use 2 - Possibility / Permission. We use can/can’t to ask for permission or to say if something is possible or not. Examples:
+  - Can I sit here ?
+  - You can't park your car here.
+  - You can’t vote if you aren’t 18 years old.
+  - I’m sorry but I can’t come to the party.
+  - Can you go ?
 
--- Use 3 / Ask for something
-We use can/can’t to ask for something and to order in bars, restaurants, shops, etc.
-Examples:
-Can you lend me some money ?
-Can I have some water, please ?
-Can I have a burger and a soda ?
-Can you drive me to the station ?
+- Use 3 - Ask for something. We use can/can’t to ask for something and to order in bars, restaurants, shops, etc. Examples:
+  - Can you lend me some money ?
+  - Can I have some water, please ?
+  - Can I have a burger and a soda ?
+  - Can you drive me to the station ?
 
-******* The imperative – Sit down! Don't talk!
+### The imperative – Sit down! Don't talk!
 
-- Form
-The form of the verb used for the imperative is the base form of the verb (=the infinitive without to). There is no subject.
-Examples
-Be quiet.
-Call me soon.
-The negative imperative is made with do not or don’t + infinitive (no subject).
-Examples
-Don't shout.
-Do not disturb.
+- The form of the verb used for the imperative is the base form of the verb (=the infinitive without to). There is no subject. Examples:
+  - Be quiet.
+  - Call me soon.
 
-- Use 1 / Give instructions
-Examples
-Open the package carefully.
-Connect the cable into the plug.
-Press the green button.
+- The negative imperative is made with do not or don’t + infinitive (no subject). Examples:
+  - Don't shout.
+  - Do not disturb.
 
-- Use 2 / Give orders
-Fasten your seatbelt.
-Stop talking!
-Run!
+- Use 1 / Give instructions. Examples:
+  - Open the package carefully.
+  - Connect the cable into the plug.
+  - Press the green button.
 
-- Use 3 / Offer something or invite someone to something
-Have some cookies.
-Come and sit with us.
+- Use 2 / Give orders. Examples:
+  - Fasten your seatbelt.
+  - Stop talking!
+  - Run!
 
-- Use 4 / Give advice
-Get some sleep.
-Tell her how you feel.
-Go and have fun.
+- Use 3 / Offer something or invite someone to something. Examples:
+  - Have some cookies.
+  - Come and sit with us.
+
+- Use 4 / Give advice. Examples:
+  - Get some sleep.
+  - Tell her how you feel.
+  - Go and have fun.
  
-- Use 5 / Give warnings
-Don’t touch that cable.
-Please, Stop the car!
+- Use 5 / Give warnings. Examples:
+  - Don’t touch that cable.
+  - Please, Stop the car!
 
-- Bonus - You can use let’s + verb to make suggestions.
-Examples
-It’s very hot today. Let’s go to the swimming pool.
-Let’s not go out today. I’m very tired.
+- Bonus - You can use let’s + verb to make suggestions. Examples:
+  - It’s very hot today. Let’s go to the swimming pool.
+  - Let’s not go out today. I’m very tired.
 
 ******* Would you like...? I'd like... Like ...
 
