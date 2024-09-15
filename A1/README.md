@@ -710,54 +710,44 @@ Can I / You / He / She / It / We / They sing ?
   - It’s very hot today. Let’s go to the swimming pool.
   - Let’s not go out today. I’m very tired.
 
-******* Would you like...? I'd like... Like ...
+### Would you like...? / I'd like... / Like ... - Uses
 
-- Would you like ... ?
-We use Would you like ... ? to offer something or to invite somebody to do something. Would you like ... ? = ‘Do you want…?’
-Examples
-Would you like some cake? (=Do you want some cake?)
-Would you like some coffee?
-Would you like to go to the cinema? (=Do you want to go to the cinema?)
-Where would you like to go?
+#### Would you like ... ?
 
-- I’d like
-We use I’d like (=I would like) to talk about something that we want or something that we want to do.
-Examples
-I’d like some water, please. (=I want some water.)
-I’d like more information about this product. 
-I’d like to go to the zoo. (=I want o go to the zoo.)
-I’d like to have a lemonade. 
+- We use Would you like ... ? to offer something or to invite somebody to do something. Would you like ... ? = ‘Do you want…?’ Examples:
+  - Would you like some cake? (=Do you want some cake?)
+  - Would you like some coffee?
+  - Would you like to go to the cinema? (=Do you want to go to the cinema?)
+  - Where would you like to go?
 
-- Like
+- I’d like. We use I’d like (=I would like) to talk about something that we want or something that we want to do. Examples:
+  - I’d like some water, please. (=I want some water.)
+  - I’d like more information about this product. 
+  - I’d like to go to the zoo. (=I want o go to the zoo.)
+  - I’d like to have a lemonade. 
 
--- Use 1 / We use like + things or people to say that we think these things or people are nice or good.
-Examples
-I like coffee. (=I think coffee is good.)
-I like John. (=I think John is nice.)
+- Like.
+  - Use 1 / We use like + things or people to say that we think these things or people are nice or good. Examples:
+    - I like coffee. (=I think coffee is good.)
+    - I like John. (=I think John is nice.)
+  - Use 2 / We use like + -ing verb to say that we enjoy doing something. Examples:
+    - I like dancing. (=I enjoy dancing.)
+    - I like going to the cinema. (=I enjoy going to the cinema.)
+  - Use 3 / We use do in questions. Examples:
+    - Do you like coffee?
+    - Do you like going to the cinema?
 
--- Use 2 / We use like + -ing verb to say that we enjoy doing something.
-Examples
-I like dancing. (=I enjoy dancing.)
-I like going to the cinema. (=I enjoy going to the cinema.)
+- Like vs Would like. Compare the following sentences:
+  - I like tea. (=I think tea is good.)
+  - I’d like some tea. (=I want some tea.)
+  - Do you like tea? (=Do you think tea is good?)
+  - Would you like some tea? (=Do you want some tea?)
 
--- Use 3 / We use do in questions.
-Examples
-Do you like coffee?
-Do you like going to the cinema?
-
-- Like vs Would like
--- Compare the following sentences:
-I like tea. (=I think tea is good.)
-I’d like some tea. (=I want some tea.)
-Do you like tea? (=Do you think tea is good?)
-Would you like some tea? (=Do you want some tea?)
-
--- We use "like + -ing verb" and "would like + to + infinitive verb".
-Compare:
-I like going to the cinema. (=I enjoy going to the cinema.)
-I’d like to go to the cinema. (=I want to go to the cinema.)
-Do you like going to the cinema? (=Do you enjoy going to the cinema?)
-Would you like to go to the cinema? (=Do you want to go to the cinema?)
+- We use "like + -ing verb" and "would like + to + infinitive verb". Compare:
+  - I like going to the cinema. (=I enjoy going to the cinema.)
+  - I’d like to go to the cinema. (=I want to go to the cinema.)
+  - Do you like going to the cinema? (=Do you enjoy going to the cinema?)
+  - Would you like to go to the cinema? (=Do you want to go to the cinema?)
 
 ------> -ing and the infinitive <------
 
