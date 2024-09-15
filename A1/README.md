@@ -202,14 +202,16 @@ Note that we can use short forms only in negative short answers, but not in posi
 - ‘Are you writing a book?’ ‘No, I’m not/I am not.’
 - ‘Are you writing a book?’ ‘Yes, I am.’ (NOT Yes, I’m.)
 
--- -ing Spelling
-Infinitive     -ing        Spelling Rules
-work           working     General rule: add -ing
-study          studying    General rule: add -ing
-live           living      Consonant + -e: delete -e and add -ing
-make           making      Consonant + -e: delete -e and add -ing
-run            running     Consonant + vowel + consonant (stressed): double the consonant + -ing
-swim           swimming    Consonant + vowel + consonant (stressed): double the consonant + -ing
+#### -ing Spelling
+
+|Infinitive    |-ing       |Spelling Rules                                                        |
+|--------------|-----------|----------------------------------------------------------------------|
+|work          |working    |General rule: add -ing                                                |
+|study         |studying   |General rule: add -ing                                                |
+|live          |living     |Consonant + -e: delete -e and add -ing                                |
+|make          |making     |Consonant + -e: delete -e and add -ing                                |
+|run           |running    |Consonant + vowel + consonant (stressed): double the consonant + -ing |
+|swim          |swimming   |Consonant + vowel + consonant (stressed): double the consonant + -ing |
 
 - How to use it
 -- Actions happening now
