@@ -552,7 +552,7 @@ We use did and didn’t to make negatives, questions and short answers in past s
 - Will we stay ?   - Yes, we will    - No, we will not   - No, we won't
 - Will they stay ? - Yes, they will  - No, they will not - No, they won't
 
-### Will / Use
+### Will - Use
 
 - Use 1 / We use will to talk about things that we think will happen in the future. Examples:
   - He will love your new coat. 
@@ -632,11 +632,12 @@ Note: when the  main verb is go, we can exclude it if we want. Examples:
   - We are going to play cards tonight.
   - She’s going to study biology next year.
 
-------> Modals, the imperative, etc. <------
+## Modals, the imperative, etc.
 
-******* can, can't – ability, possibility, permission
+### Can, Can't – Ability, possibility, permission
 
 - Form
+
 -- Positive: I / You / He / She / It / We / They can sing
 -- Negative: I / You / He / She / It / We / They cannot sing
              I / You / He / She / It / We / They can't sing
