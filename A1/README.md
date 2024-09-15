@@ -227,40 +227,32 @@ Note that we can use short forms only in negative short answers, but not in posi
 
 We use the present simple for habits or for permanent situations.
 
-- Habits or actions that happen regularly
-We use present simple for habits or actions that we repeat regularly.
-Examples:
-I wash my hair every day.
-I never go to the library.
-I go to the library on Saturdays.
+- Habits or actions that happen regularly. We use present simple for habits or actions that we repeat regularly. Examples:
+  - I wash my hair every day.
+  - I never go to the library.
+  - I go to the library on Saturdays.
 
-- Facts, States, Permanent situations or things that are always (or often true)
-Examples:
-I don’t drink coffee.
-She’s very tall.
-I have two brothers.
-Water boils at 100 degrees.
-I like soup.
+- Facts, States, Permanent situations or things that are always (or often true). Examples:
+  - I don’t drink coffee.
+  - She’s very tall.
+  - I have two brothers.
+  - Water boils at 100 degrees.
+  - I like soup.
 
-- Adverbs and expressions of frequency
-We use adverbs and expressions of frequency with the present simple to talk about how often something happens.
-Examples:
-We usually order a pizza on Fridays. 
-I go running twice a week.
+- Adverbs and expressions of frequency. We use adverbs and expressions of frequency with the present simple to talk about how often something happens. Examples:
+  - We usually order a pizza on Fridays.
+  - I go running twice a week.
 
-- Signal words.
-We use the present simple for habits o for permanent situations with time expressions like: always, never, often, sometimes, every day, once a month, twice a week, etc.
+- Signal words. We use the present simple for habits o for permanent situations with time expressions like: always, never, often, sometimes, every day, once a month, twice a week, etc.
 
-- Stative or non-action verbs
-There are verbs that don’t describe actions. These verbs are called stative or non-action verbs, and we can use these verbs in present simple but NOT in present continuous. Some of these verbs are: be, have (=possess/own), like, love, hate, prefer, need, want, know, etc.
-Examples
-They have a new car. (NOT They are having a new car.)
-I like chocolate. (NOT I’m liking chocolate.)
-These stative verbs can be classified as follows:
-Verbs of the senses: hear, see, smell, look, seem, sound.
-Opinion: believe, consider, like, love, hate, prefer, think, etc.
-Possession: have, own, belong, etc.
-Also: be, need, mean, remember, want, etc.
+- Stative or non-action verbs. There are verbs that don’t describe actions. These verbs are called stative or non-action verbs, and we can use these verbs in present simple but NOT in present continuous. Some of these verbs are: be, have (=possess/own), like, love, hate, prefer, need, want, know, etc. Examples:
+  - They have a new car. (NOT They are having a new car.)
+  - I like chocolate. (NOT I’m liking chocolate.)
+  - These stative verbs can be classified as follows:
+    - Verbs of the senses: hear, see, smell, look, seem, sound.
+    - Opinion: believe, consider, like, love, hate, prefer, think, etc.
+    - Possession: have, own, belong, etc.
+    - Also: be, need, mean, remember, want, etc.
 
 -- Present continuous
 
