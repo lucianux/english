@@ -518,127 +518,119 @@ We use did and didn’t to make negatives, questions and short answers in past s
 |When            |did            |they          |arrive ?     |
 |What            |did            |you           |do ?         |
 
-------> Future <------
+## Future
 
-******* ‘will’ – Future
+### Future - ‘will’
 
--- Positive
-I will stay    - I'll stay
-You will stay  - You'll stay
-He will stay   - He'll stay
-She will stay  - She'll stay
-It will stay   - It'll stay
-We will stay   - We'll stay
-They will stay - They'll stay
+#### Positive
 
--- Negative
-I will not stay    - I won't stay
-You will not stay  - You won't stay
-He will not stay   - He won't stay
-She will not stay  - She won't stay
-It will not stay   - It won't stay
-We will not stay   - We won't stay
-They will not stay - They won't stay
+- I will stay    - I'll stay
+- You will stay  - You'll stay
+- He will stay   - He'll stay
+- She will stay  - She'll stay
+- It will stay   - It'll stay
+- We will stay   - We'll stay
+- They will stay - They'll stay
 
--- Questions and short answer
-Will I stay ?    - Yes, I will     - No, I will not    - No, I won't
-Will you stay ?  - Yes, you will   - No, you will not  - No, you won't
-Will he stay ?   - Yes, he will    - No, he will not   - No, he won't
-Will she stay ?  - Yes, she will   - No, she will not  - No, she won't
-Will it stay ?   - Yes, it will    - No, it will not   - No, it won't
-Will we stay ?   - Yes, we will    - No, we will not   - No, we won't
-Will they stay ? - Yes, they will  - No, they will not - No, they won't
+#### Negative
 
--- Will / Use
-Use 1 / We use will to talk about things that we think will happen in the future.
-Examples
-He will love your new coat. 
-They won’t win this match.
+- I will not stay    - I won't stay
+- You will not stay  - You won't stay
+- He will not stay   - He won't stay
+- She will not stay  - She won't stay
+- It will not stay   - It won't stay
+- We will not stay   - We won't stay
+- They will not stay - They won't stay
 
-Use 2 / We use will for promises or refusals.
-Examples:
-I will lend her the money.
-I won’t help you. 
-We use will when we make decisions at the moment of speaking (instant decisions).
-Examples
-A: There’s no milk in the fridge. B: I’ll go to the shop to buy some more. 
-A: This box is very heavy. B: Don’t worry. I’ll help you. 
+#### Questions and short answer
 
-Note: it’s common to use will with the expressions I think, I don’t think, I hope, etc. or also with I’m sure, I’m not sure, perhaps, etc.
-Examples:
-I hope they will arrive soon. 
-I don’t think they‘ll win.
-I’m sure you‘ll be fine. 
-Perhaps I‘ll be late.
+- Will I stay ?    - Yes, I will     - No, I will not    - No, I won't
+- Will you stay ?  - Yes, you will   - No, you will not  - No, you won't
+- Will he stay ?   - Yes, he will    - No, he will not   - No, he won't
+- Will she stay ?  - Yes, she will   - No, she will not  - No, she won't
+- Will it stay ?   - Yes, it will    - No, it will not   - No, it won't
+- Will we stay ?   - Yes, we will    - No, we will not   - No, we won't
+- Will they stay ? - Yes, they will  - No, they will not - No, they won't
 
-******* ‘shall’ – Future
+### Will / Use
 
-- Use 1 / We use Shall I ... ? or I’ll when we offer to do things for other people.
-Examples:
-Shall I make some coffee? (=Do you want me to make coffee?)
-I‘ll make come coffee.
+- Use 1 / We use will to talk about things that we think will happen in the future. Examples:
+  - He will love your new coat. 
+  - They won’t win this match.
 
-- Use 2 / We use Shall we ... ? to suggest doing something.
-Examples:
-Shall we go to the cinema? (=Do you want to go to the cinema?)
+- Use 2 / We use will for promises or refusals. Examples:
+  - I will lend her the money.
+  - I won’t help you. 
 
-******* be going to – plans and predictions
+- We use will when we make decisions at the moment of speaking (instant decisions). Examples:
+  - A: There’s no milk in the fridge. B: I’ll go to the shop to buy some more. 
+  - A: This box is very heavy. B: Don’t worry. I’ll help you. 
 
-Grammar chart
--------------
+- Note: it’s common to use will with the expressions I think, I don’t think, I hope, etc. or also with I’m sure, I’m not sure, perhaps, etc. Examples:
+  - I hope they will arrive soon. 
+  - I don’t think they‘ll win.
+  - I’m sure you‘ll be fine. 
+  - Perhaps I‘ll be late.
 
--- Positive
-I am going to work    - I'm going to work
-He is going to work   - He's going to work
-She is going to work  - She's going to work
-It is going to work   - It's going to work
-You are going to work - You're going to work
-We are going to work   - We're going to work
-They are going to work - They're going to work
+### Future - ‘shall’
 
--- Negative
-I am not going to work     - I'm not going to work
-He is not going to work    - He's not going to work
-She is not going to work   - She's not going to work
-It is not going to work    - It's not going to work
-You are not going to work  - You aren't going to work
-We are not going to work   - We aren't going to work
-They are not going to work - They aren't going to work
+- Use 1 / We use Shall I ... ? or I’ll when we offer to do things for other people. Examples:
+  - Shall I make some coffee? (=Do you want me to make coffee?)
+  - I‘ll make come coffee.
 
--- Questions and short answer
-Am I going to work ?     - Yes, I am     - No, I am not     - No, I'm not
-Is he going to work ?    - Yes, he is    - No, he is not    - No, he isn't
-Is she going to work ?   - Yes, she is   - No, she is not   - No, she isn't
-Is it going to work ?    - Yes, it is    - No, it is not    - No, it isn't
-Are you going to work ?  - Yes, you are  - No, you are not  - No, you aren't
-Are we going to work ?   - Yes, we are   - No, we are not   - No, we aren't
-Are they going to work ? - Yes, they are - No, they are not - No, they aren't
+- Use 2 / We use Shall we ... ? to suggest doing something. Examples:
+  - Shall we go to the cinema? (=Do you want to go to the cinema?)
 
-Note: when the  main verb is go, we can exclude it if we want.
-Examples
-I’m going shopping this afternoon. (=I’m going to go shopping this afternoon.)
-We are going to Cyprus next summer. (=We are going to go to Cyprus next summer.)
+### Be going to – Plans and predictions
 
-Be going to - Use
+#### Positive
 
-- Use 1 / Predictions 
-We use be going to to talk about something that we see is going to happen (there is present evidence).
-Examples:
-Don’t drive like a crazy man. We’re going to have an accident!
-The doctor said I’m going to have a girl.
-Look at those clouds. It’s going to rain.
+- I am going to work    - I'm going to work
+- He is going to work   - He's going to work
+- She is going to work  - She's going to work
+- It is going to work   - It's going to work
+- You are going to work - You're going to work
+- We are going to work   - We're going to work
+- They are going to work - They're going to work
 
-- Use 2 / Intentions or plans
-We use be going to for intentions or plans (decisions taken before the moment of speaking).
-Examples
-‘Why are you undressing?’ ‘Because I’m going to go for a swim.’
-We are going to have a drink after work. Do you want to come?
+#### Negative
 
-- Future time expressions 
-We often use be going to with future time expressions (tomorrow, next week, etc.).
-Examples:
-We are going to play cards tonight.
-She’s going to study biology next year.
+- I am not going to work     - I'm not going to work
+- He is not going to work    - He's not going to work
+- She is not going to work   - She's not going to work
+- It is not going to work    - It's not going to work
+- You are not going to work  - You aren't going to work
+- We are not going to work   - We aren't going to work
+- They are not going to work - They aren't going to work
+
+#### Questions and short answer
+
+- Am I going to work ?     - Yes, I am     - No, I am not     - No, I'm not
+- Is he going to work ?    - Yes, he is    - No, he is not    - No, he isn't
+- Is she going to work ?   - Yes, she is   - No, she is not   - No, she isn't
+- Is it going to work ?    - Yes, it is    - No, it is not    - No, it isn't
+- Are you going to work ?  - Yes, you are  - No, you are not  - No, you aren't
+- Are we going to work ?   - Yes, we are   - No, we are not   - No, we aren't
+- Are they going to work ? - Yes, they are - No, they are not - No, they aren't
+
+Note: when the  main verb is go, we can exclude it if we want. Examples:
+- I’m going shopping this afternoon. (= I’m going to go shopping this afternoon.)
+- We are going to Cyprus next summer. (= We are going to go to Cyprus next summer.)
+
+#### Be going to - Use
+
+- Use 1 / Predictions. We use be going to to talk about something that we see is going to happen (there is present evidence). Examples:
+  - Don’t drive like a crazy man. We’re going to have an accident!
+  - The doctor said I’m going to have a girl.
+  - Look at those clouds. It’s going to rain.
+
+- Use 2 / Intentions or plans. We use be going to for intentions or plans (decisions taken before the moment of speaking). Examples:
+  - ‘Why are you undressing?’ ‘Because I’m going to go for a swim.’
+  - We are going to have a drink after work. Do you want to come?
+
+- Future time expressions. We often use be going to with future time expressions (tomorrow, next week, etc.). Examples:
+  - We are going to play cards tonight.
+  - She’s going to study biology next year.
 
 ------> Modals, the imperative, etc. <------
 
