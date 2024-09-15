@@ -57,13 +57,13 @@
 
 #### Questions and short answer
 
-- Am I?     - Yes, I am     - No, I am not    - No, I'm not
-- Are you?  - Yes, You are  - No, You are not - No, You're not - No, You aren't
-- Is He?    - Yes, He is    - No, He is not   - No, He's not   - No, He isn't
-- Is She?   - Yes, She is   - No, She is not  - No, She's not  - No, She isn't
-- Is It?    - Yes, It is    - No, It is not   - No, It's not   - No, It isn't
-- Are We?   - Yes, We are   - No, We are not  - No, We're not  - No, we aren't
-- Are They? - Yes, They are - No, They are not - No, They're not - No, They aren't
+- Am I? ... Yes, I am ... No, I am not ... No, I'm not
+- Are you? ... Yes, You are ... No, You are not ... No, You're not ... No, You aren't
+- Is He? ... Yes, He is ... No, He is not ... No, He's not ... No, He isn't
+- Is She? ... Yes, She is ... No, She is not ... No, She's not ... No, She isn't
+- Is It? ... Yes, It is ... No, It is not ... No, It's not ... No, It isn't
+- Are We? ... Yes, We are ... No, We are not ... No, We're not ... No, we aren't
+- Are They? ... Yes, They are ... No, They are not ... No, They're not ... No, They aren't
 
 Remember we cannot use short forms in positive short answers.
 For example: "Are you happy? -Yes, I,m (NOO) -Yes, I am (YESS)"
@@ -166,27 +166,30 @@ The form is the same for all the other persons except he/she/it. The spelling fo
   - Water boils at 100 degrees.
   - I like soup.
 
-******* Present continuous – I’m doing, I’m not doing, Are you doing?
+### Present continuous – I’m doing, I’m not doing, Are you doing?
 
--- Positive
-I am working     - I'm working
-You are working  - You're working
-He is working    - He's working
-She is working   - She's working
-It is working    - It's working
-We are working   - We're working
-They are working - They're working
+#### Positive
 
--- Negative
-I am not working     - I'm not working
-You are not working  - You aren't working
-He is not working    - He isn't working
-She is not working   - She isn't working
-It is not working    - It isn't working
-We are not working   - We aren't working
-They are not working - They aren't working
+- I am working     - I'm working
+- You are working  - You're working
+- He is working    - He's working
+- She is working   - She's working
+- It is working    - It's working
+- We are working   - We're working
+- They are working - They're working
 
--- Questions and short answer
+#### Negative
+
+- I am not working     - I'm not working
+- You are not working  - You aren't working
+- He is not working    - He isn't working
+- She is not working   - She isn't working
+- It is not working    - It isn't working
+- We are not working   - We aren't working
+- They are not working - They aren't working
+
+#### Questions and short answer
+
 Am I working?      - Yes, I am     - No, I am not     - No, I'm not
 Are You working?   - Yes, You are  - No, You are not  - No, You aren't
 Is He working?     - Yes, He is    - No, He is not    - No, He isn't
