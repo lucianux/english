@@ -254,76 +254,74 @@ We use the present simple for habits or for permanent situations.
     - Possession: have, own, belong, etc.
     - Also: be, need, mean, remember, want, etc.
 
--- Present continuous
+### Present continuous
 
 We use the present continuous for things that are happening now (at the moment of speaking) or for temporary things that are happening around now (these days, or weeks, etc.).
 
-- Actions happening now
-We use the present continuous for things happening now, at the moment of speaking, in progress now.
-Example:
-‘What are you doing?’ ‘I‘m watching TV.’
+- Actions happening now. We use the present continuous for things happening now, at the moment of speaking, in progress now. Example:
+  - ‘What are you doing?’ ‘I‘m watching TV.’
 
-- Actions happening around now
-We use the present continuous for temporary things that are happening around now (=not at the moment of speaking but these days, or weeks, etc.), in progress around now.
-Examples:
-I‘m reading a very good book at the moment. (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)
-What TV series are you watching these days? (=You are not watching it at the moment of speaking, but these days.)
+- Actions happening around now. We use the present continuous for temporary things that are happening around now (=not at the moment of speaking but these days, or weeks, etc.), in progress around now. Examples:
+  - I‘m reading a very good book at the moment. (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)
+  - What TV series are you watching these days? (=You are not watching it at the moment of speaking, but these days.)
 
-- Signal words
-We use the present continuous with time expressions that mean now or around now. Some of these expressions are: now, at the moment, at present, today, these days, this week, etc.
+- Signal words. We use the present continuous with time expressions that mean now or around now. Some of these expressions are: now, at the moment, at present, today, these days, this week, etc.
 
-******* Have got
+### Have got
 
--- Positive
-I have got    - I've got
-You have got  - You've got
-We have got   - We've got
-They have got - They've got
-He has got    - He's got
-She has got   - She's got
-It has got    - It's got
+#### Positive
 
--- Negative
-I have not got    - I haven't got
-You have not got  - You haven't got
-We have not got   - We haven't got
-They have not got - They haven't got
-He has not got    - He hasn't got
-She has not got   - She hasn't got
-It has not got    - It hasn't got
+- I have got    - I've got
+- You have got  - You've got
+- We have got   - We've got
+- They have got - They've got
+- He has got    - He's got
+- She has got   - She's got
+- It has got    - It's got
 
--- Questions and short answer
-Have I got?    - Yes, I have    - No, I have not      - No, I haven't got
-Have You got?  - Yes, You have  - No, You have not    - No, You haven't got
-Have We got?   - Yes, We have   - No, We have not     - No, We haven't got
-Have They got? - Yes, They have - No, They have not   - No, They haven't got
-Has He got?    - Yes, He has    - No, He has not got  - No, He hasn't got
-Has She got?   - Yes, She has   - No, She has not got - No, She hasn't got
-Has It got?    - Yes, It has    - No, It has not got  - No, It hasn't got
+#### Negative
+
+- I have not got    - I haven't got
+- You have not got  - You haven't got
+- We have not got   - We haven't got
+- They have not got - They haven't got
+- He has not got    - He hasn't got
+- She has not got   - She hasn't got
+- It has not got    - It hasn't got
+
+#### Questions and short answer
+
+- Have I got?    - Yes, I have    - No, I have not      - No, I haven't got
+- Have You got?  - Yes, You have  - No, You have not    - No, You haven't got
+- Have We got?   - Yes, We have   - No, We have not     - No, We haven't got
+- Have They got? - Yes, They have - No, They have not   - No, They haven't got
+- Has He got?    - Yes, He has    - No, He has not got  - No, He hasn't got
+- Has She got?   - Yes, She has   - No, She has not got - No, She hasn't got
+- Has It got?    - Yes, It has    - No, It has not got  - No, It hasn't got
 
 Remember: have got (British English) = have (American English)
 Examples
-I‘ve got a car. = I have a car.
-I haven’t got a car. = I don’t have a car.
-Have you got a car? = Do you have a car?
+- I‘ve got a car. = I have a car.
+- I haven’t got a car. = I don’t have a car.
+- Have you got a car? = Do you have a car?
 
-- Be careful with this common mistake!
-The verb have got only has a present form (NOT past).
-I had a car. (NOT had got)
-I didn’t have a car. (NOT hadn’t got)
-Did you have car? (NOT Had you got)
+- Be careful with this common mistake! The verb have got only has a present form (NOT past).
+  - I had a car. (NOT had got)
+  - I didn’t have a car. (NOT hadn’t got)
+  - Did you have car? (NOT Had you got)
 
-- Use of 'have got' 
--- Possession, family
-She‘s got a a nice apartment.
-Have you got a computer?
-I haven’t got any brothers or sisters.
--- Ilnesses
-I‘ve got a headache.
-She‘s got a cold.
--- Physical descriptions
-He‘s got brown hair and a long nose.
-They‘ve got blue eyes.
+### Have got - How to use it
+
+- Possession, family. Examples:
+  - She‘s got a a nice apartment.
+  - Have you got a computer?
+  - I haven’t got any brothers or sisters.
+- Ilnesses. Examples:
+  - I‘ve got a headache.
+  - She‘s got a cold.
+- Physical descriptions. Examples:
+  - He‘s got brown hair and a long nose.
+  - They‘ve got blue eyes.
 
 ------> Past tenses <------
 
