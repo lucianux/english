@@ -398,49 +398,50 @@ rob          robbed    consonant + vowel + cons. => double consonant + -ed
 
 Some verb are irregular and they don’t add -ed to make the past simple. Some very common irregular verbs are:
 
-Infinitive     Past
-Be             Was/Were
-Begin          Began
-Break          Broke
-Bring          Brought
-Buy            Bought
-Do             Did
-Drink          Drank
-Drive          Drove
-Eat            Ate
-Find           Found
-Fly            Flew
-Forget         Forgot
-Get            Got
-Give           Gave
-Go             Went
-Have           Had
-Know           Knew
-Lose           Lost
-Make           Made
-Meet           Met
-Pay            Paid
-Put            Put
-Read           Read
-Run            Run
-Say            Said
-See            Saw
-Sell           Sold
-Send           Sent
-Sing           Sang
-Sit            Sat
-Sleep          Slept
-Speak          Spoke
-Spend          Spent
-Swim           Swam
-Take           Took
-Teach          Taught
-Tell           Told
-Think          Thought
-Understand     Understood
-Wear           Wore
-Win            Won
-Write          Wrote
+|Infinitive|Past         |
+|----------|-------------|
+|Be        |     Was/Were|
+|Begin     |     Began   |
+|Break     |     Broke   |
+|Bring     |     Brought |
+|Buy       |     Bought  |
+|Do        |     Did     |
+|Drink     |     Drank   |
+|Drive     |     Drove   |
+|Eat       |     Ate     |
+|Find      |     Found   |
+|Fly       |     Flew    |
+|Forget    |     Forgot  |
+|Get       |     Got     |
+|Give      |     Gave    |
+|Go        |     Went    |
+|Have      |     Had     |
+|Know      |     Knew    |
+|Lose      |     Lost    |
+|Make      |     Made    |
+|Meet      |     Met  |
+|Pay       |     Paid|
+|Put       |     Put|
+|Read      |     Read|
+|Run       |     Run|
+|Say       |     Said|
+|See       |     Saw|
+|Sell      |     Sold|
+|Send      |     Sent|
+|Sing      |     Sang|
+|Sit       |     Sat|
+|Sleep     |     Slept|
+|Speak     |     Spoke|
+|Spend     |     Spent|
+|Swim      |     Swam|
+|Take      |     Took|
+|Teach     |     Taught|
+|Tell      |     Told|
+|Think     |     Thought|
+|Understand|     Understood|
+|Wear      |     Wore|
+|Win       |     Won|
+|Write     |     Wrote|
 
 - Past simple / Use
 
