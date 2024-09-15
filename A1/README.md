@@ -373,28 +373,28 @@ In summary, Was/were are the past forms of am/is/are. Present: am/is = past: was
   - ‘Where were you born?’ ‘I was born in Sweden.’ (NOT Where are you born? I am born...)
   - Mozart was born in 1756.
 
-******* Past simple – regular/irregular verbs
+### Past simple – regular/irregular verbs
 
---- Past simple REGULAR
+#### Past simple REGULAR
 
-We often add -ed to verbs (REGULAR verbs) to make the past simple.
-Examples:
-We often watch a film on Saturday. ⇒ We watched a film last Saturday.
-I live in Barcelona. ⇒ I lived in Barcelona in the 90s.
+We often add -ed to verbs (REGULAR verbs) to make the past simple. Examples:
+- We often watch a film on Saturday. ⇒ We watched a film last Saturday.
+- I live in Barcelona. ⇒ I lived in Barcelona in the 90s.
 
-Spelling of regular verbs (based on rules)
-Past -ed spelling
-Infinitive   Past      Spelling rules
-watch        watched   in general => add -ed
-play         played    in general => add -ed
-like         liked     after -e => add -d
-arrive       arrived   after -e => add -d
-study        studied   after consonant + -y => delete -y and add -ied
-try          tried     after consonant + -y => delete -y and add -ied
-stop         stopped   consonant + vowel + cons. => double consonant + -ed
-rob          robbed    consonant + vowel + cons. => double consonant + -ed
+Spelling of regular verbs (based on rules). Past -ed spelling
 
---- Past simple IRREGULAR
+|Infinitive  |Past     |Spelling rules                                      |
+|------------|---------|----------------------------------------------------|
+|watch       |watched  |in general => add -ed                               |
+|play        |played   |in general => add -ed                               |
+|like        |liked    |after -e => add -d                                  |
+|arrive      |arrived  |after -e => add -d                                  |
+|study       |studied  |after consonant + -y => delete -y and add -ied      |
+|try         |tried    |after consonant + -y => delete -y and add -ied      |
+|stop        |stopped  |consonant + vowel + cons. => double consonant + -ed |
+|rob         |robbed   |consonant + vowel + cons. => double consonant + -ed |
+
+#### Past simple IRREGULAR
 
 Some verb are irregular and they don’t add -ed to make the past simple. Some very common irregular verbs are:
 
@@ -419,100 +419,104 @@ Some verb are irregular and they don’t add -ed to make the past simple. Some v
 |Know      |     Knew    |
 |Lose      |     Lost    |
 |Make      |     Made    |
-|Meet      |     Met  |
-|Pay       |     Paid|
-|Put       |     Put|
-|Read      |     Read|
-|Run       |     Run|
-|Say       |     Said|
-|See       |     Saw|
-|Sell      |     Sold|
-|Send      |     Sent|
-|Sing      |     Sang|
-|Sit       |     Sat|
-|Sleep     |     Slept|
-|Speak     |     Spoke|
-|Spend     |     Spent|
-|Swim      |     Swam|
-|Take      |     Took|
-|Teach     |     Taught|
-|Tell      |     Told|
-|Think     |     Thought|
-|Understand|     Understood|
-|Wear      |     Wore|
-|Win       |     Won|
-|Write     |     Wrote|
+|Meet      |     Met     |
+|Pay       |     Paid    |
+|Put       |     Put     |
+|Read      |     Read    |
+|Run       |     Run     |
+|Say       |     Said    |
+|See       |     Saw     |
+|Sell      |     Sold    |
+|Send      |     Sent    |
+|Sing      |     Sang    |
+|Sit       |     Sat     |
+|Sleep     |     Slept   |
+|Speak     |     Spoke   |
+|Spend     |     Spent   |
+|Swim      |     Swam    |
+|Take      |     Took    |
+|Teach     |     Taught  |
+|Tell      |     Told    |
+|Think     |     Thought |
+|Understand|   Understood|
+|Wear      |     Wore    |
+|Win       |     Won     |
+|Write     |     Wrote   |
 
-- Past simple / Use
+### Past simple / Use
 
--- Use 1 / Past finished actions or states
-We can use the past simple to talk about past finished actions or states. We know and we often mention when these actions happened with a past time expression: yesterday, yesterday morning, last night, last week, two days ago, five years ago, etc.
-Examples:
-Jessica called me last night.
-Rachel was a very good writer.
+- Use 1 / Past finished actions or states. We can use the past simple to talk about past finished actions or states. We know and we often mention when these actions happened with a past time expression: yesterday, yesterday morning, last night, last week, two days ago, five years ago, etc. Examples:
+  - Jessica called me last night.
+  - Rachel was a very good writer.
 
--- Use 2 / Past repeated actions
-We can use the past simple to talk about habits or repeated actions that happened in the past but don’t happen in the present. We often use adverbs or expressions of frequency (often, always, every day, etc.).
-Examples:
-When I was a child, I ate sweets every day. 
-In school, I always played football during break time.
+- Use 2 / Past repeated actions. We can use the past simple to talk about habits or repeated actions that happened in the past but don’t happen in the present. We often use adverbs or expressions of frequency (often, always, every day, etc.). Examples:
+  - When I was a child, I ate sweets every day. 
+  - In school, I always played football during break time.
 
-******* Past simple – negatives and questions
+### Past simple – negatives and questions
 
 We use did and didn’t to make negatives, questions and short answers in past simple.
 
--- Positive
-I went
-You went
-He went
-She went
-It went
-We went
-They went
+#### Positive
 
--- Negative
-I did not go    - I didn't go
-You did not go  - You didn't go
-He did not go   - He didn't go
-She did not go  - She didn't go
-It did not go   - It didn't go
-We did not go   - We didn't go
-They did not go - They didn't go
+- I went
+- You went
+- He went
+- She went
+- It went
+- We went
+- They went
 
--- Questions and short answer
-Did I go ?     - Yes, I did     - No, I did not    - No, I didn't
-Did You go ?   - Yes, You did   - No, You did not  - No, You didn't
-Did He go ?    - Yes, He did    - No, He did not   - No, He didn't
-Did She go ?   - Yes, She did   - No, She did not  - No, She didn't
-Did It go ?    - Yes, It did    - No, It did not   - No, It didn't
-Did We go ?    - Yes, We did    - No, We did not   - No, We didn't
-Did They go ?  - Yes, They did  - No, They did not - No, They didn't
+#### Negative
 
-Note: We use did or didn’t with the bare infinitive of the main verb (= infinitive without to).
-Examples:
-I didn’t work yesterday. (NOT I didn’t worked.)
-Did you go to the concert? (NOT Did you went…?)
+- I did not go    - I didn't go
+- You did not go  - You didn't go
+- He did not go   - He didn't go
+- She did not go  - She didn't go
+- It did not go   - It didn't go
+- We did not go   - We didn't go
+- They did not go - They didn't go
 
-Note 2: Don't use "did" in positive sentences. We use did or didn’t in negatives, questions and short answers, but NOT in positive sentences.
-Examples:
-We stayed home yesterday. (NOT We did stay home yesterday.)
-I went out last night. (NOT I did go out last night.)
+#### Questions and short answer
 
-- Past simple questions
-Remember that the word order in questions is QWASI: (Question Word), Auxiliary (did), Subject, Infinitive.
--- Questions with BE
-Question word    Auxiliary       Subject        Adjective, noun, etc.
-                 Was             Thomas         at the party ?
-How old          was             your aunt ?
-What             were            those noises   last night ?
-Where            were            you            at 10 ?
--- Questions with DID
-Question word    Auxiliary DID   Subject        Infinitive
-                 Did             you            eat pizza ?
-Where            did             you            park ?
-What time        did             he             leave ?
-When             did             they           arrive ?
-What             did             you            do ?
+- Did I go ?     - Yes, I did     - No, I did not    - No, I didn't
+- Did You go ?   - Yes, You did   - No, You did not  - No, You didn't
+- Did He go ?    - Yes, He did    - No, He did not   - No, He didn't
+- Did She go ?   - Yes, She did   - No, She did not  - No, She didn't
+- Did It go ?    - Yes, It did    - No, It did not   - No, It didn't
+- Did We go ?    - Yes, We did    - No, We did not   - No, We didn't
+- Did They go ?  - Yes, They did  - No, They did not - No, They didn't
+
+### Tips
+
+- Note: We use did or didn’t with the bare infinitive of the main verb (= infinitive without to). Examples:
+  - I didn’t work yesterday. (NOT I didn’t worked.)
+  - Did you go to the concert? (NOT Did you went…?)
+
+- Note 2: Don't use "did" in positive sentences. We use did or didn’t in negatives, questions and short answers, but NOT in positive sentences. Examples:
+  - We stayed home yesterday. (NOT We did stay home yesterday.)
+  - I went out last night. (NOT I did go out last night.)
+
+- Past simple questions. Remember that the word order in questions is QWASI: (Question Word), Auxiliary (did), Subject, Infinitive.
+
+### Questions with verb TO BE
+
+|Question word   |Auxiliary      |Subject       |Adjective, noun, etc. |
+|----------------|---------------|--------------|----------------------|
+|                |Was            |Thomas        |at the party ?        |
+|How old         |was            |your aunt ?   |                      |
+|What            |were           |those noises  |last night ?          |
+|Where           |were           |you           |at 10 ?               |
+
+### Questions with DID
+
+|Question word   |Auxiliary DID  |Subject       |Infinitive   |
+|----------------|---------------|--------------|-------------|
+|                |Did            |you           |eat pizza ?  |
+|Where           |did            |you           |park ?       |
+|What time       |did            |he            |leave ?      |
+|When            |did            |they          |arrive ?     |
+|What            |did            |you           |do ?         |
 
 ------> Future <------
 
