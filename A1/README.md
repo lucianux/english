@@ -636,17 +636,25 @@ Note: when the  main verb is go, we can exclude it if we want. Examples:
 
 ### Can, Can't – Ability, possibility, permission
 
-- Form
+#### Positive
 
--- Positive: I / You / He / She / It / We / They can sing
--- Negative: I / You / He / She / It / We / They cannot sing
+I / You / He / She / It / We / They can sing
+
+#### Negative
+
+I / You / He / She / It / We / They cannot sing
              I / You / He / She / It / We / They can't sing
--- Question: Can I / You / He / She / It / We / They sing ?
--- Short answer: Yes, I / You / He / She / It / We / They can.
-                 No, I / You / He / She / It / We / They cannot.
-                 No, I / You / He / She / It / We / They can't.
+#### Question
 
-- Can, Can't / Use
+Can I / You / He / She / It / We / They sing ?
+
+#### Short answer
+
+- Yes, I / You / He / She / It / We / They can.
+- No, I / You / He / She / It / We / They cannot.
+- No, I / You / He / She / It / We / They can't.
+
+### Can, Can't / Use
 
 -- Use 1 / Ability
 We use can/can’t to talk about ability in the present (=things that we know how to do).
