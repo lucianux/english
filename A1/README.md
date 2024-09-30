@@ -749,67 +749,73 @@ Can I / You / He / She / It / We / They sing ?
   - Do you like going to the cinema? (=Do you enjoy going to the cinema?)
   - Would you like to go to the cinema? (=Do you want to go to the cinema?)
 
-------> -ing and the infinitive <------
+## -ing and the infinitive
 
-******* Verbs + to + infinitive AND verbs + -ing
+### Verbs + -ing
 
-- Verbs + -ing
 Some verbs in English are followed by another verb in the -ing form. The most common of these verbs are verbs of liking and disliking: love, like, enjoy, don’t mind, don’t like, hate. If we use another verb after these verbs, it often takes the -ing form.
-Examples:
-I love going to the gym. 
-I like reading. 
-I enjoy travelling. 
-I don’t mind cooking. 
-I don’t like doing homework. 
-I hate getting up early.
-Note:
-The second verb is in the -ing form in the past too.
-Examples:
-When I was a child I hated going to school. (NOT I hated went to school.)
 
--ing spelling
+Examples:
+- I love going to the gym. 
+- I like reading. 
+- I enjoy travelling. 
+- I don’t mind cooking. 
+- I don’t like doing homework. 
+- I hate getting up early.
+
+Note: the second verb is in the -ing form in the past too.
+Example:
+- When I was a child I hated going to school. (NOT I hated went to school.)
+
+#### -ing spelling
+
 You can check the spelling of the -ing form of the verbs in the table below.
-Infinitive      -ing form      Spelling rule
-work            working        in general => add -ing
-study           studying       in general => add -ing
-live            living         after consonant + -e => delete -e and add -ing
-write           writing        after consonant + -e => delete -e and add -ing
-run             running        consonant + vowel + consonant => double consonant + -ing
-swim            swimming       consonant + vowel + consonant => double consonant + -ing
-die             dying          after -ie => delete -ie and add -ying
-lie             lying          after -ie => delete -ie and add -ying
 
-- Verbs + to + infinitive
+|Infinitive     |-ing form     |Spelling rule
+|---------------|--------------|---------------------------------------------------------|
+|work           |working       |in general => add -ing                                   |
+|study          |studying      |in general => add -ing                                   |
+|live           |living        |after consonant + -e => delete -e and add -ing           |
+|write          |writing       |after consonant + -e => delete -e and add -ing           |
+|run            |running       |consonant + vowel + consonant => double consonant + -ing |
+|swim           |swimming      |consonant + vowel + consonant => double consonant + -ing |
+|die            |dying         |after -ie => delete -ie and add -ying                    |
+|lie            |lying         |after -ie => delete -ie and add -ying                    |
+
+### Verbs + to + infinitive
+
 Many verbs in English are followed by to + infinitive. Some of these verbs are: forget, hope, learn, need, offer, plan, remember, start, want and would like.
+
 Examples
-I forgot to turn off the light. 
-I hope to see you soon. 
-I‘m learning to drive. 
-We need to arrive early. 
-She offered to help us. 
-We are planning to go to France. 
-Remember to lock the door. 
-I want to go home. 
-I would like to buy a new computer. 
-The second verb takes the to + infinitive form in the past too.
-Example
-I wanted to go home. (NOT I wanted to went home.)
+- I forgot to turn off the light. 
+- I hope to see you soon. 
+- I‘m learning to drive. 
+- We need to arrive early. 
+- She offered to help us. 
+- We are planning to go to France. 
+- Remember to lock the door. 
+- I want to go home. 
+- I would like to buy a new computer. 
+- The second verb takes the to + infinitive form in the past too.
 
--- Would like
-The verb would like (or ‘d like) is different from like. We use would like + to + infinitive and we normally use like + -ing verb to talk about general preference.
-Examples:
-I‘d like to study English. 
-I like studying English. 
--- The meaning is also different.
-Examples:
-I‘d like to study English. (=I want to do it.)
-I like studying English. (=I enjoy it.)
--- We use the question would you like… when we offer or suggest something.
-Examples:
-Would you like a cup of coffee?
-Would you like to dance with me?
+Example in past
+- I wanted to go home. (NOT I wanted to went home.)
 
-------> Articles, nouns, pronouns, and determiners. <------
+### Would like / like - Use of the infinitive and the gerund
+
+The verb would like (or ‘d like) is different from like. We use would like + to + infinitive and on the other hand, we normally use like + -ing verb to talk about general preference. Examples:
+- I‘d like to study English. 
+- I like studying English. 
+
+The meaning is also different:
+- I‘d like to study English. (=I want to do it.)
+- I like studying English. (=I enjoy it.)
+
+We use the question "Would you like..." when we offer or suggest something. Examples:
+- Would you like a cup of coffee?
+- Would you like to dance with me?
+
+## Articles, nouns, pronouns, and determiners
 
 ******* a/an, singular and plural forms
 
