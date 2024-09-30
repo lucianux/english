@@ -673,7 +673,7 @@ Can I / You / He / She / It / We / They sing ?
   - Can I have a burger and a soda ?
   - Can you drive me to the station ?
 
-### The imperative – Sit down! Don't talk!
+### The imperative - Use
 
 - The form of the verb used for the imperative is the base form of the verb (=the infinitive without to). There is no subject. Examples:
   - Be quiet.
