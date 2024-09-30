@@ -815,150 +815,142 @@ We use the question "Would you like..." when we offer or suggest something. Exam
 - Would you like a cup of coffee?
 - Would you like to dance with me?
 
-## Articles, nouns, pronouns, and determiners
+## Articles, nouns (plurals and singulars), pronouns, and determiners
 
-******* a/an, singular and plural forms
+### Plural forms
 
-- Regular plural
-Singular     Plural       Spelling Rule
-a student    students     in general => add -s
-an apple     apples       in general => add -s
-a bus        buses        after -s, ch, sh, x => add -es
-a box        boxes        after -s, ch, sh, x => add -es
-a baby       babies       after consonant + -y => delete -y and add -s
-a country    countries    after consonant + -y => delete -y and add -s
-a day        days         after -ay, -ey, -oy => add -s
-a toy        toys         after -ay, -ey, -oy => add -s
-a shelf      shelves      after -f or -fe => delete -f or -fe and add -ves
-a wife       wives        after -f or -fe => delete -f or -fe and add -ves
+#### Regular plural
 
-- Irregular plural
-Singular     Plural
-a man        men          
-a woman      women
-a child      children
-a foot       feet
-a tooth      teeth
-a fish       fish
-a mouse      mice
-a sheep      sheep
+|Singular    |Plural      |Spelling Rule                                      |
+|------------|------------|---------------------------------------------------|
+|a student   |students    |in general => add -s                               |
+|an apple    |apples      |in general => add -s                               |
+|a bus       |buses       |after -s, ch, sh, x => add -es                     |
+|a box       |boxes       |after -s, ch, sh, x => add -es                     |
+|a baby      |babies      |after consonant + -y => delete -y and add -s       |
+|a country   |countries   |after consonant + -y => delete -y and add -s       |
+|a day       |days        |after -ay, -ey, -oy => add -s                      |
+|a toy       |toys        |after -ay, -ey, -oy => add -s                      |
+|a shelf     |shelves     |after -f or -fe => delete -f or -fe and add -ves   |
+|a wife      |wives       |after -f or -fe => delete -f or -fe and add -ves   |
 
-- Rules with SINGULAR words.
--- We use "a/an" with singular nouns.
-Examples:
-This is a table. 
-It’s an orange. 
--- We use "a" with nouns beginning with "a" consonant, and we use "an" with nouns beginning with a vowel (a, e, i, o, u).
-Examples:
-Give me an apple. 
-There is an elephant in the zoo. 
-It’s an amazing experience. 
--- We also use "an" with nouns beginning with "h" if the "h" is not pronounced. But we use "a" if the "h" is pronounced.
-Examples:
-Give me an hour. (The h is not pronounced in hour.)
-I want to buy a hat. (The h is pronounced in hat.)
--- We use "a" and NOT "an" with nouns beginning with u when it is pronounced /ju:/, like university. 
-Examples:
-Is there a university in this city?
-I wear a uniform.
+#### Irregular plural
 
-- Rules with PLURAL words.
--- We do NOT use a/an with plural nouns.
--- We add -s to make plural nouns in English. Sometimes we need to add -es, -ies or -ves. Check the spelling in the grammar chart above.
--- Irregular plurals: some words have irregular plurals and do NOT add -s to make their plural form.
+|Singular    |Plural    |
+|------------|----------|
+|a man       |men       |  
+|a woman     |women     |
+|a child     |children  |
+|a foot      |feet      |
+|a tooth     |teeth     |
+|a fish      |fish      |
+|a mouse     |mice      |
+|a sheep     |sheep     |
 
-******* Use of a/an, the, no article - the use of articles in English
+#### Rules with PLURAL words:
 
-- Use of "a/an"
+- We do NOT use a/an with plural nouns.
+- We add -s to make plural nouns in English. Sometimes we need to add -es, -ies or -ves. Check the spelling in the grammar chart above.
+- Irregular plurals: some words have irregular plurals and do NOT add -s to make their plural form.
 
--- Use 1 / First mention: We use a/an when we mention something for the first time.
-Examples
-I saw an old woman with a dog in the park.
+### Singular form
 
--- Use 2 / Jobs and descriptions: We use a/an to talk about people’s jobs or to say what kind of person or thing something/somebody is.
-Examples:
-Paula is a teacher.
-Paris is an interesting city.
-When I was a teenager, I enjoyed sleeping.
+#### Rules with SINGULAR words.
 
-Note: You cannot use singular countable nouns alone (without a, the, my etc.)
-Examples
-I don’t have a driving license (NOT I don’t have driving license)
-This hotel doesn’t have a spa. (NOT This hotel doesn’t have spa.)
+- We use "a/an" with singular nouns. Examples:
+  - This is a table. 
+  - It’s an orange. 
 
-- Use "the"
+- We use "a" with nouns beginning with "a" consonant, and we use "an" with nouns beginning with a vowel (a, e, i, o, u). Examples:
+  - Give me an apple.
+  - There is an elephant in the zoo. 
+  - It’s an amazing experience.
+  
+- We also use "an" with nouns beginning with "h" if the "h" is not pronounced. But we use "a" if the "h" is pronounced. Examples:
+  - Give me an hour. (The h is not pronounced in hour.)
+  - I want to buy a hat. (The h is pronounced in hat.)
 
--- Use 1 / Second mention: We use "the" when we mention something for the second time.
-Example
-A man and a woman sat in front of me. The man was British, but I think the woman wasn’t.
+- We use "a" and NOT "an" with nouns beginning with u when it is pronounced /ju:/, like university. Examples:
+  - Is there a university in this city?
+  - I wear a uniform.
 
--- Use 2 / Specific things: We use "the" to talk about specific things or people; when it’s clear which things or people we are talking about.
-Examples
-"Where are the kids?" "They’re in the garden." (=We know which kids and which garden.)
-Can you open the door? (=We know which door.)
+### Use of a/an, the, no article - the use of articles in English
 
--- Use 3 / There is only one: We use "the" when there’s only one of something.
-Examples
-This company is very profitable. The manager must be really good.
-I’d like to live in this country, but not in the capital.
-The moon looks beautiful today.
+#### Use of "a/an"
 
--- Use 4 / Common places in town: With places in a town where we commonly go (the park, the cinema, the doctor, etc.)
-Examples
-I’m going to the bank.
-I found Peter at the station.
-I’m at the library.
+- Use 1 / First mention: We use a/an when we mention something for the first time. Examples:
+  - I saw an old woman with a dog in the park.
 
--- Use 5 / Superlatives: We use "the" before superlative adjectives.
-Example
-This is the best restaurant in town.
+- Use 2 / Jobs and descriptions: We use a/an to talk about people’s jobs or to say what kind of person or thing something/somebody is. Examples:
+  - Paula is a teacher.
+  - Paris is an interesting city.
+  - When I was a teenager, I enjoyed sleeping.
 
--- Use 6 / Musical instruments: We use "the" before names of musical instruments.
-Example
-Margaret plays the guitar and I play the flute.
+Note: You cannot use singular countable nouns alone (without a, the, my etc.). Examples:
+- I don’t have a driving license (NOT I don’t have driving license)
+- This hotel doesn’t have a spa. (NOT This hotel doesn’t have spa.)
 
-- Use no article
+#### Use of "the"
 
--- Use 1 / General meaning: We do not use an article before plural or uncountable nouns to talk about something in general.
-Examples
-I don’t drink milk.
-Women drive more cautiously than men.
+- Use 1 / Second mention: We use "the" when we mention something for the second time. Example:
+  - A man and a woman sat in front of me. The man was British, but I think the woman wasn’t.
 
--- Compare with 'the':
-I love music. (=Music in general.)
-I loved the music at the party. (=Specific music.)
-Children are often difficult. (=Children in general.)
-They are a nice family. The children are very funny. (=The children in that family.)
+- Use 2 / Specific things: We use "the" to talk about specific things or people; when it’s clear which things or people we are talking about. Examples:
+  - "Where are the kids?" "They’re in the garden." (=We know which kids and which garden.)
+  - Can you open the door? (=We know which door.)
 
--- Use 2 / Meals: We do not use an article before names of meals: breakfast, lunch, dinner.
-Examples
-Dinner is served at 8.
-I always have breakfast with my children.
+- Use 3 / There is only one: We use "the" when there’s only one of something. Examples:
+  - This company is very profitable. The manager must be really good.
+  - I’d like to live in this country, but not in the capital.
+  - The moon looks beautiful today.
 
--- Use 3 / Years, months and days: We do not use an article before names of years, months and days of the week.
-Examples
-Friday is my favourite day of the week.
-I think 2020 will be an excellent year.
+- Use 4 / Common places in town: With places in a town where we commonly go (the park, the cinema, the doctor, etc.). Examples:
+  - I’m going to the bank.
+  - I found Peter at the station.
+  - I’m at the library.
 
--- Use 4 / TV: We do not use an article with TV (when used as a broadcasting service, NOT as an appliance)
-Examples
-I saw it on TV.
-I don’t watch TV.
-But: Turn off the TV. I’ve bought a new TV.
+- Use 5 / Superlatives: We use "the" before superlative adjectives. Example:
+  - This is the best restaurant in town.
 
--- Use 5 / Names of languages and school subjects: We do not use an article before names of languages and school subjects.
-Examples
-He doesn’t speak English.
-I study biology. 
+- Use 6 / Musical instruments: We use "the" before names of musical instruments. Example:
+  - Margaret plays the guitar and I play the flute.
 
--- Use 6 / Next, last: We do not use an article before next and last + time expression (when they mean before or after now).
-Examples
-The meeting is next Thursday.
-I saw him last week.
+#### Use no article
 
-Compare:
-Last year we spend one week in London (Last year= the year before now).
-We really loved London. The last day we were really sad. (The last day= the last day of that trip. NOT the day before now)
+- Use 1 / General meaning: We do not use an article before plural or uncountable nouns to talk about something in general. Examples:
+  - I don’t drink milk.
+  - Women drive more cautiously than men.
+
+- Compare with 'the':
+  - I love music. (=Music in general.)
+  - I loved the music at the party. (=Specific music.)
+  - Children are often difficult. (=Children in general.)
+  - They are a nice family. The children are very funny. (=The children in that family.)
+
+- Use 2 / Meals: We do not use an article before names of meals: breakfast, lunch, dinner. Examples:
+  - Dinner is served at 8.
+  - I always have breakfast with my children.
+
+- Use 3 / Years, months and days: We do not use an article before names of years, months and days of the week. Examples:
+  - Friday is my favourite day of the week.
+  - I think 2020 will be an excellent year.
+
+- Use 4 / TV: We do not use an article with TV (when used as a broadcasting service, NOT as an appliance). Examples:
+  - I saw it on TV.
+  - I don’t watch TV.
+  - But: Turn off the TV. I’ve bought a new TV.
+
+- Use 5 / Names of languages and school subjects: We do not use an article before names of languages and school subjects. Examples:
+  - He doesn’t speak English.
+  - I study biology. 
+
+- Use 6 / Next, last: We do not use an article before next and last + time expression (when they mean before or after now). Examples:
+  - The meeting is next Thursday.
+  - I saw him last week.
+
+- Compare:
+  - Last year we spend one week in London (Last year= the year before now).
+  - We really loved London. The last day we were really sad. (The last day= the last day of that trip. NOT the day before now)
 
 ******* this, that, these, those
 
