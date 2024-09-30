@@ -710,7 +710,7 @@ Can I / You / He / She / It / We / They sing ?
   - It’s very hot today. Let’s go to the swimming pool.
   - Let’s not go out today. I’m very tired.
 
-### Would you like...? / I'd like... / Like ... - Uses
+### Would you like...? / I'd like... / Like ... - Use
 
 #### Would you like ... ?
 
