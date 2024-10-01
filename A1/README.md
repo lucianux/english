@@ -952,57 +952,54 @@ Note: You cannot use singular countable nouns alone (without a, the, my etc.). E
   - Last year we spend one week in London (Last year= the year before now).
   - We really loved London. The last day we were really sad. (The last day= the last day of that trip. NOT the day before now)
 
-******* this, that, these, those
+## This, That, These, Those
 
-- this, these: We use this and these for things that are here (near). This is singular and these is plural.
-Examples
-This is my new watch. 
-These are my sisters Anna and Jenny. 
+This, These: We use this and these for things that are here (near). This is singular and these is plural. Examples:
+- This is my new watch. 
+- These are my sisters Anna and Jenny. 
 
-- that, those: We use that and those for things that are there (not near). That is singular and those is plural.
-Examples
-That man is very strange. 
-I need those boxes over there. 
+That, Those: We use that and those for things that are there (not near). That is singular and those is plural. Examples:
+- That man is very strange. 
+- I need those boxes over there. 
 
-- Use 1 / We can use this, that, these, those with a noun (this box, that car, etc.) or without a noun.
-Examples
-This watch is very expensive. 
-I like that woman in the park. 
-Who is that? (= that person)
-‘What are those?’ ‘They are old pictures.’
+- Use 1 / We can use this, that, these, those with a noun (this box, that car, etc.) or without a noun. Examples:
+  - This watch is very expensive. 
+  - I like that woman in the park. 
+  - Who is that? (= that person)
+  - ‘What are those?’ ‘They are old pictures.’
 
-- Use 2 / We use this is when we introduce people and on the telephone.
-Examples
-Hi, this is Tim. (Tim on the telephone)
-Laura: ‘Hi, Sara. This is my friend Paul.’ Sara: ‘Hi, Paul. Nice to meet you.’
+- Use 2 / We use this is when we introduce people and on the telephone. Examples:
+  - Hi, this is Tim. (Tim on the telephone)
+  - Laura: ‘Hi, Sara. This is my friend Paul.’ Sara: ‘Hi, Paul. Nice to meet you.’
 
-******* Possessive adjectives and subject pronouns (I/my, you/your, etc.)
+## Possessive adjectives and subject pronouns (I/my, you/your, etc.)
 
-- Form
-Subject pronouns         Possessive adjetives
-I play football          This is MY brother
-YOU are Australian       Give me YOUR book
-HE is very tall          That's HIS house
-SHE is a teacher         I know HER sister
-IT is a dog              It has ITS advantages
-WE love English          We love OUR parents
-YOU are students         I like YOUR cars
-THEY have a nice house   This is THEIR teacher
+### Form
 
-Note: We use he-his and she-her for people, and we use it-its for things. But in plural, we use they-their for people and things.
-Examples
-The hotel has its own spa. It is a relaxing place. 
-I like those chairs, they are beautiful. But their legs are too long.
+|Subject pronouns        |Possessive adjetives    |
+|------------------------|------------------------|
+|I play football         |This is MY brother      |
+|YOU are Australian      |Give me YOUR book       |
+|HE is very tall         |That's HIS house        |
+|SHE is a teacher        |I know HER sister       |
+|IT is a dog             |It has ITS advantages   |
+|WE love English         |We love OUR parents     |
+|YOU are students        |I like YOUR cars        |
+|THEY have a nice house  |This is THEIR teacher   |
 
-Use 1 / We use it’s (=it is) to talk about the time or the weather.
-Examples
-It’s very windy today, but it’s sunny. 
-‘What time is it?’ ‘It’s three o’clock.’
+Note: We use he-his and she-her for people, and we use it-its for things. But in plural, we use they-their for people and things. Examples:
+- The hotel has its own spa. It is a relaxing place. 
+- I like those chairs, they are beautiful. But their legs are too long.
 
-- it’s or its?
-Its = possessive adjective. It’s = it is (subject + verb be)
-Example
-Look at that dog. It’s beautiful. I like its hair.
+### Use
+
+Use 1 / We use it’s (=it is) to talk about the time or the weather. Examples:
+- It’s very windy today, but it’s sunny. 
+- ‘What time is it?’ ‘It’s three o’clock.’
+
+it’s or its?
+- Its = possessive adjective. It’s = it is (subject + verb be). Example:
+  - Look at that dog. It’s beautiful. I like its hair.
 
 ******* Object pronouns vs subject pronouns – me or I, she or her?
 
