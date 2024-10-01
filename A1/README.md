@@ -972,7 +972,7 @@ That, Those: We use that and those for things that are there (not near). That is
   - Hi, this is Tim. (Tim on the telephone)
   - Laura: ‘Hi, Sara. This is my friend Paul.’ Sara: ‘Hi, Paul. Nice to meet you.’
 
-## Possessive adjectives and subject pronouns (I/my, you/your, etc.)
+## Possessive adjectives vs subject pronouns (I/my, you/your, etc.)
 
 ### Form
 
@@ -1001,34 +1001,31 @@ it’s or its?
 - Its = possessive adjective. It’s = it is (subject + verb be). Example:
   - Look at that dog. It’s beautiful. I like its hair.
 
-******* Object pronouns vs subject pronouns – me or I, she or her?
+## Object pronouns vs subject pronouns - me or I, she or her?
 
-- Subject pronouns. They are the subject of a verb. They go BEFORE the verb.
-Examples:
-I like your dress.
-You are late.
-He is my friend.
-It often rains.
-She is on holiday.
-We live in England.
-They come from London.
+Subject pronouns. They are the subject of a verb. They go BEFORE the verb. Examples:
+- I like your dress.
+- You are late.
+- He is my friend.
+- It often rains.
+- She is on holiday.
+- We live in England.
+- They come from London.
 
-- Object pronouns are the object of a verb. They go AFTER the verb.
-Examples
-Can you help me please?
-I can see you.
-She doesn’t like him.
-I see her every Monday.
-We can see him, but he can’t see us.
+Object pronouns are the object of a verb. They go AFTER the verb. Examples:
+- Can you help me please?
+- I can see you.
+- She doesn’t like him.
+- I see her every Monday.
+- We can see him, but he can’t see us.
 
-- After preposition: We use object pronouns after prepositions.
-Examples
-She is there for me.
-I’ll get it for you.
-Give it to him.
-Can you listen to her?
-Don’t take it from us.
-I want to speak to them. 
+After preposition: We use object pronouns after prepositions. Examples:
+- She is there for me.
+- I’ll get it for you.
+- Give it to him.
+- Can you listen to her?
+- Don’t take it from us.
+- I want to speak to them. 
 
 ******* a, some, any – countable and uncountable nouns
 
