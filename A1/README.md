@@ -1327,7 +1327,7 @@ Use 4: We use "it" to talk about distance. Examples:
 - It‘s 2 kilometres from the hotel to the station. 
 Note: we use far is negative sentences and questions and we use a long way in affirmative sentences.
 
-Use 5 / We use "it's" + adjective + "to" + infinitive. Examples:
+Use 5: We use "it's" + adjective + "to" + infinitive. Examples:
 - It’s nice to see you again.
 - It was difficult to find the hotel.
 
