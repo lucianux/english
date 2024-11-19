@@ -1148,86 +1148,69 @@ Use: When we want to talk about zero quantity, we can use no + noun or not...any
 In short answers we use none. Example:
 - ‘How much time do you have?’ ‘None.’
 
-******* whose, possessive ‘s – Whose is this? It’s Mike’s
+## Whose, possessive ‘s – Whose is this? It’s Mike’s
 
-- Possessive 's - Form
+### Possessive 's - Form
 
--- Singular noun + ‘s
-Example
-Anna’s clothes, Chris’s wife, the student’s books, etc.
+Singular noun + ‘s. Example:
+- Anna’s clothes, Chris’s wife, the student’s books, etc.
 
--- Plural noun ending in -s + ‘ (apostrophe)
-Example
-The students’ books, the boys’ toys, the teachers’ lounge, etc.
+Plural noun ending in -s + ‘ (apostrophe). Example:
+- The students’ books, the boys’ toys, the teachers’ lounge, etc.
 
--- Irregular plural noun (NOT ending in -s) + ‘s
-Example
-The children’s toys, men’s clothes, etc.
+Irregular plural noun (NOT ending in -s) + ‘s. Example:
+- The children’s toys, men’s clothes, etc.
 
--- When one thing belongs to two or more people, add ‘s only after the last noun.
-Example
-Paul and Katherine’s house, Anna and George’s car, etc.
+When one thing belongs to two or more people, add ‘s only after the last noun. Example:
+- Paul and Katherine’s house, Anna and George’s car, etc.
 
---When we have two or more people, and each person has one thing, we add ‘s after each person.
-Example
-Anna’s and George’s cars (Anna’s car and George’s car), Sally’s and Tim’s computers (Sally’s computer and Tim’s computer).
+When we have two or more people, and each person has one thing, we add ‘s after each person. Example:
+- Anna’s and George’s cars (Anna’s car and George’s car), Sally’s and Tim’s computers (Sally’s computer and Tim’s computer).
 
-- Possessive 's - Use
+### Possessive 's - Use
 
--- We use ‘s to show that something belongs to a person (or a pet) or to talk about relationships between people.
-Examples
-This is Peter‘s father. (NOT the father of Peter)
-Peter and Mary‘s car is red. 
-My cat‘s ears are white. 
+We use ‘s to show that something belongs to a person (or a pet) or to talk about relationships between people. Examples:
+- This is Peter‘s father. (NOT the father of Peter)
+- Peter and Mary‘s car is red. 
+- My cat‘s ears are white. 
 
--- We also use the possessive ‘s to talk about shops and houses.
-Examples
-I am at John‘s. (= at John’s house)
-I need to go to the chemist‘s. (= the chemist’s shop)
+We also use the possessive ‘s to talk about shops and houses. Examples:
+- I am at John‘s. (= at John’s house)
+- I need to go to the chemist‘s. (= the chemist’s shop)
 
-- Possessive of
- 
--- We use "of" and NOT "‘s" when we talk about things (and not people or pets).
-Examples
-the end of the street (NOT the street’s end)
-a picture of the eclipse (NOT the eclipse’s picture)
-the man of the match (NOT the match’s man)
+Possessive of: We use "of" and NOT "‘s" when we talk about things (and not people or pets). Examples:
+- The end of the street (NOT the street’s end)
+- A picture of the eclipse (NOT the eclipse’s picture)
+- The man of the match (NOT the match’s man)
 
-- Compound nouns - the city center
+### Compound nouns
 
--- With nouns that are used together very often, we often use them together without of and without ‘s
-Examples
-a school bus
-the city center
-the car key
+With nouns that are used together very often, we often use them together without of and without ‘s. Examples:
+- A school bus
+- The city center
+- The car key
 
-- Whose
+### Whose
 
-- Use 1 / We use the question word "whose" to ask about possession. There are two possible forms:
+Use 1: We use the question word "whose" to ask about possession. There are two possible forms:
 
--- whose + noun
-Examples
-Whose car is this?
-Whose books are those?
+- Whose + noun. Examples:
+  - Whose car is this?
+  - Whose books are those?
 
--- whose without a noun
-Examples
-Whose is this car?
-Whose are those books? 
+- Whose without a noun. Examples:
+  - Whose is this car?
+  - Whose are those books? 
 
--- When we answer with the possessive ‘s, we can also use ‘s + noun or ‘s without a noun.
-Examples
-Whose is this car?
-It’s John‘s car
-It’s John‘s. 
+- When we answer with the possessive ‘s, we can also use ‘s + noun or ‘s without a noun. Examples:
+  - Whose is this car?
+  - It’s John‘s car
+  - It’s John‘s. 
 
-- Whose vs who’s
-
--- Whose = possession (of who)
--- Who’s = who is
-Examples
-Whose car is this? (NOT Who’s car is this?)
-Who’s that man in the lobby? (NOT Whose that man in the lobby?)
+-  Whose vs who's
+Whose = possession (of who) | Who's = who is | Examples:
+- Whose car is this? (NOT Who's car is this?)
+Who's that man in the lobby? (NOT Whose that man in the lobby?)
 
 ------> There and it <------
 
