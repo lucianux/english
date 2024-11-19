@@ -1212,118 +1212,124 @@ Whose = possession (of who) | Who's = who is | Examples:
 - Whose car is this? (NOT Who's car is this?)
 Who's that man in the lobby? (NOT Whose that man in the lobby?)
 
-------> There and it <------
+## There and it
 
-******* There is, there are - there was, there were
+### There is, there are - there was, there were
 
-- There is, There are - Use
+#### There is, There are - Use
 
--- Use 1 / We use "there is, there are" to say that something exists.
-Example
-There is a lot of noise. 
+Use 1: We use "there is, there are" to say that something exists. Example:
+- There is a lot of noise. 
 
--- Use 2 / We often use "there is, there are" to say where something is.
-Examples
-There is a good restaurant at the end of the street.
-There are some keys in that box.
+Use 2: We often use "there is, there are" to say where something is. Examples:
+- There is a good restaurant at the end of the street.
+- There are some keys in that box.
 
--- Use 3 / We can also use "there is, there are" to say when something happens.
-Examples
-There is a concert tonight.
-There are a lot of storms in summer.
+Use 3: We can also use "there is, there are" to say when something happens. Examples:
+- There is a concert tonight.
+- There are a lot of storms in summer.
 
--- Use 4 / We often use "there is, there are" + (a, some, any).
-We had already seen this topic before. Let's review.
--- We use "there is" + singular noun, and "there are" + plural noun.
-Examples
-There is a new teacher in the school. 
-There are some problems that we need to solve.
--- We use "there is" + a list of things if the first noun after "there is" is singular.
-Example
-In the room, there is a bed, a wardrobe and two chairs. 
+Use 4: We often use "there is, there are" + (a, some, any). We had already seen this topic before. Let's review. We use "there is" + singular noun, and "there are" + plural noun. Examples:
+- There is a new teacher in the school. 
+- There are some problems that we need to solve.
 
-- There is, There are - Form
-Present                        Past
-There is / There are           There was / There were
-Positive      Negative         Positive      Negative
-There is      There is not     There was     There was not
-There's       There isn't                    There wasn't
-There are     There are not    There were    There were not
-              There aren't                   There weren't
+We use "there is" + a list of things if the first noun after "there is" is singular. Example:
+- In the room, there is a bed, a wardrobe and two chairs. 
 
-Question      Short asnwer     Question      Short answer
-Is there ?    Yes, there is    Was there ?   Yes, there was
-              No, there isn't                No, there wasn't
-Are there ?   Yes, there are   Were there ?  Yes, there were
-              No, there aren't               No, there weren't
+#### There is, There are - Form
 
-- Notes
--- Present and past: The past form of there is, there are is there was, there were.
-Examples
-There is a car in the street. ⇒  There was a car in the street.
-There are some cars in the street. ⇒  There were some cars in the street.
--- Short forms 1 / The short form of there is is there’s, but we don’t use a short form of there are. There’s is not used in short answers.
-Examples
-There’s a new secretary in the office.
-There are two bathrooms in this house.  
--- Short forms 2 / There are no short forms for there was/there were.
--- In negative sentences, we often use the short forms there isn’t/there aren’t and there wasn’t/weren’t.
-Examples
-There isn’t any bread left. We need to buy more.
-There aren’t any cookies in the jar.
+Present - There is / There are
+           
+|Positive     |Negative        |
+|-------------|----------------|
+|There is     |There is not    |
+|There's      |There isn't     |
+|There are    |There are not   |
+|             |There aren't    |
 
-******* There or it (comparison)
+|Question     |Short asnwer     |
+|-------------|-----------------|
+|Is there ?   |Yes, there is    |
+|             |No, there isn't  |
+|Are there ?  |Yes, there are   |
+|             |No, there aren't |  
 
-- There (We had already seen this topic before. Let's review)
+Past - There was / There were
 
--- We use "there" to say when or where something is.
-Examples
-There are some dirty cups on the table.
-There is a party tomorrow.
+|Positive      |Negative        |
+|--------------|----------------|
+|There was     |There was not   |
+|              |There wasn't    |
+|There were    |There were not  |
+|              |There weren't   |
 
--- We use "there" to say that something exists or is happening.
-Examples
-There is a problem. 
-There was an accident.
+|Question      |Short answer       |
+|--------------|-------------------|
+|Was there ?   |Yes, there was     |
+|              |No, there wasn't   |
+|Were there ?  |Yes, there were    |
+|              |No, there weren't  |
 
-Note: we use "there" the first time we mention something. If we talk about the same thing again, we use "it" or "they".
-Examples
-There are some cups on the table. But they are dirty.
-There was an accident. It was horrible.
+Notes
 
-- It
+Present and past: The past form of there is, there are is there was, there were. Examples:
+- There is a car in the street. ⇒  There was a car in the street.
+- There are some cars in the street. ⇒  There were some cars in the street.
 
-- Use 1 / We use "it" (or "they") to talk about something again in the conversation.
-Examples
-There is a party tomorrow. It will be fantastic!
-We saw a snake in the forest. It was very big.
-There are some cups on the table. But they are dirty.
+Short forms 1: The short form of there is "there’s", but we don’t use a short form of there are. There’s is not used in short answers. Examples:
+- There's a new secretary in the office.
+- There are two bathrooms in this house.  
 
-- Use 2 / We use "it" to talk about times and dates.
-Examples
-It‘s my mum’s birthday today. 
-Let’s go home. It‘s very late. 
-It‘s four o’clock.
+Short forms 2: There are no short forms for there was/there were.
 
-- Use 3 / We use "it" to talk about the weather.
-Examples
-It‘s very windy. 
-It‘s a nice day.
-It rained a lot yesterday.
-It‘s four degrees.
+In negative sentences, we often use the short forms there isn’t/there aren’t and there wasn’t/weren’t. Examples:
+- There isn’t any bread left. We need to buy more.
+- There aren’t any cookies in the jar.
 
-- Use 4 / We use "it" to talk about distance.
-Examples
-How far is it?
-It‘s not very far. 
-It‘s a long way to the nearest petrol station.  
-It‘s 2 kilometres from the hotel to the station. 
+#### There or it (comparison)
+
+There
+
+We use "there" to say when or where something is. Examples:
+- There are some dirty cups on the table.
+- There is a party tomorrow.
+
+We use "there" to say that something exists or is happening. Examples:
+- There is a problem. 
+- There was an accident.
+
+Note: we use "there" the first time we mention something. If we talk about the same thing again, we use "it" or "they". Examples:
+- There are some cups on the table. But they are dirty.
+- There was an accident. It was horrible.
+
+It
+
+Use 1: We use "it" (or "they") to talk about something again in the conversation. Examples:
+- There is a party tomorrow. It will be fantastic!
+- We saw a snake in the forest. It was very big.
+- There are some cups on the table. But they are dirty.
+
+Use 2: We use "it" to talk about times and dates. Examples:
+- It‘s my mum’s birthday today. 
+- Let’s go home. It‘s very late. 
+- It‘s four o’clock.
+
+Use 3: We use "it" to talk about the weather. Examples:
+- It‘s very windy. 
+- It‘s a nice day.
+- It rained a lot yesterday.
+- It‘s four degrees.
+
+Use 4: We use "it" to talk about distance. Examples:
+- How far is it?
+- It‘s not very far. 
+- It‘s a long way to the nearest petrol station.  
+- It‘s 2 kilometres from the hotel to the station. 
 Note: we use far is negative sentences and questions and we use a long way in affirmative sentences.
 
-- Use 5 / We use "it's" + adjective + "to" + infinitive.
-Examples
-It’s nice to see you again.
-It was difficult to find the hotel.
+Use 5 / We use "it's" + adjective + "to" + infinitive. Examples:
+- It’s nice to see you again.
+- It was difficult to find the hotel.
 
 ------> Adjectives and adverbs <------
 
