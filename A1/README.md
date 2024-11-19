@@ -1640,116 +1640,126 @@ When we say last, next, every, this we do not use at, in, on. Examples:
 - I go home every Easter. (NOT at every Easter)
 - We’ll call you this evening. (NOT in this evening)
 
-******* at, in, on – prepositions of place
+### at, in, on – prepositions of place
 
-- AT
+#### AT
 
--- At a point
-at the door
-at the crossroads
-at the traffic light
+At a point
+- at the door
+- at the crossroads
+- at the traffic light
 
--- Top/Bottom/End of
-at the top of the stairs
-at the bottom of the page
-at the end of the street
+Top/Bottom/End of
+- at the top of the stairs
+- at the bottom of the page
+- at the end of the street
 
--- Group activities (parties, concerts, and other events)
-at a party
-at a concert
-at the cinema
+Group activities (parties, concerts, and other events)
+- at a party
+- at a concert
+- at the cinema
 
--- at school/University/college
-at school
-at Oxford university
+at school/University/college
+- at school
+- at Oxford university
 
--- Home/Work (without "the")
-at home
-at work
+Home/Work (without "the")
+- at home
+- at work
 
--- Shops, restaurants, cafés, etc.
-at the bakery
-at a café
-at the chemist's
+Shops, restaurants, cafés, etc.
+- at the bakery
+- at a café
+- at the chemist's
 
-- IN
+#### IN
 
--- In a 3D space
-in the bag
-in the classroom
-in a box
+In a 3D space
+- in the bag
+- in the classroom
+- in a box
 
--- Territory (areas that have limits or boundaries, like continents, countries, cities, regions, etc.)
-in London
-in Europa
-in the Alps
-in the world
+Territory (areas that have limits or boundaries, like continents, countries, cities, regions, etc.)
+- in London
+- in Europa
+- in the Alps
+- in the world
 
--- Car/Van
-in the car
-in a van
+Car/Van
+- in the car
+- in a van
 
--- Water
-in the sea
-in a river
-in a lake
-in the swimming pool
+Water
+- in the sea
+- in a river
+- in a lake
+- in the swimming pool
 
--- Printed material (documents)
-in a book
-in a picture
-in the newspaper
+Printed material (documents)
+- in a book
+- in a picture
+- in the newspaper
 
-- ON
+#### ON
 
--- On a surface
-on the table
-on the carpet
-on the roof
-on the sofa
+On a surface
+- on the table
+- on the carpet
+- on the roof
+- on the sofa
 
--- Floor
-on the first floor
+Floor
+- on the first floor
 
--- Right/Left
-on the right
-on the left
+Right/Left
+- on the right
+- on the left
 
--- Public transport
-on the bus
-on the train
-on a plane
+Public transport
+- on the bus
+- on the train
+- on a plane
 
--- Media
-on the radio
-on TV
-on the Internet
-on a website
+Media
+- on the radio
+- on TV
+- on the Internet
+- on a website
 
-******* next to, under, between, in front of, behind, over, etc.
+### next to, under, between, in front of, behind, over, etc.
 
--- Next to / Beside = Al lado
+Next to / Beside = Al lado | Examples:
+- The coffee shop is next to the library
+- I like sitting next to the window in class
+- The park is next to the river
 
--- Between = Entre
-Examples
-I live in a small town between Liverpool and Manchester.
-The alien is between the dragons
+Between = Entre | Examples:
+- I live in a small town between Liverpool and Manchester.
+- The alien is between the dragons
 
--- Opposite = Enfrentado con
-Examples
-I live opposite the supermarket (=on the other side of the road)
-I am sitting opposite him (=facing him)
+Opposite = Enfrentado con | Examples:
+- I live opposite the supermarket (=on the other side of the road)
+- I am sitting opposite him (=facing him)
 
--- In front of = Delante de
-Examples
-John sits in front of me in class.
-You are always in front of the mirror.
+In front of = Delante de | Examples:
+- John sits in front of me in class.
+- You are always in front of the mirror.
 
--- Behind = Detrás de
+Behind = Detrás de | Examples:
+- The car is parked behind the building.
+- There is a small garden behind my house.
+- The dog is hiding behind the door.
 
--- Above / Over (mean "at or to a higher position", "over" is more common) = Encima (por arriba)
+Above / Over (mean "at or to a higher position", "over" is more common) = Encima (por arriba) | Examples:
+- The picture is hanging above the fireplace.
+- The clouds are above the mountains.
+- The plane is flying over the city.
+- He put a blanket over the baby.
 
--- Under = Abajo
+Under = Abajo | Examples:
+- The shoes are under the bed
+- She is sitting under the tree to stay in the shade. 
+- The keys are under the newspaper on the table.
 
 ------> Questions <------
 
