@@ -1331,186 +1331,174 @@ Use 5: We use "it's" + adjective + "to" + infinitive. Examples:
 - It’s nice to see you again.
 - It was difficult to find the hotel.
 
-------> Adjectives and adverbs <------
+## Adjectives and adverbs
 
-******* Adjectives
+### Adjectives
 
-- Form
+#### Form
 
--- Adjective + noun
-When we use adjectives with a noun in English, the adjectives go before the noun.
-Examples
-It’s an expensive guitar. (NOT It’s a guitar expensive.)
-She has a new car.
+Adjective + noun - when we use adjectives with a noun in English, the adjectives go before the noun. Examples:
+- It’s an expensive guitar. (NOT It’s a guitar expensive.)
+- She has a new car.
 
--- am/is/are + adjective
-We can also use adjectives without a noun after the verb be.
-Examples
-This guitar is expensive.
-Her car is new.
+am/is/are + adjective - we can also use adjectives without a noun after the verb be. Examples:
+- This guitar is expensive.
+- Her car is new.
 
--- In questions the adjective can go after "be" + subject.
-Examples
-Is your car new?
-Are your classmates nice?
+In questions the adjective can go after "be" + subject. Examples:
+- Is your car new?
+- Are your classmates nice?
 
--- feel/look/smell/sound/taste + adjective / We can also use adjectives without a noun after the verbs of the senses: feel, look, smell, sound, taste.
-Examples
-Your idea sounds interesting. 
-I don’t like this soup. It tastes horrible.
-You look tired. 
-These cookies smell delicious. 
-I feel depressed. 
+We can also use adjectives without a noun after the verbs of the senses: feel, look, smell, sound, taste. Examples:
+- Your idea sounds interesting. 
+- I don’t like this soup. It tastes horrible.
+- You look tired. 
+- These cookies smell delicious. 
+- I feel depressed. 
 
--- Very/quite: We can use very and quite before the adjectives.
-Examples
-It’s very expensive.
-It’s quite expensive.
+Very/quite: we can use very and quite before the adjectives. Examples:
+- It’s very expensive.
+- It’s quite expensive.
 
-******* Adverbs of manner (slowly) – or adjectives (slow)?
+### Adverbs of manner (slowly) – or adjectives (slow)?
 
-- Adverbs of manner - Speelling
+#### Adverbs of manner - Speelling
 
-Adjetive          Adverb of manner     Spelling rules
-careful           carefully            In general => add -ly
-quick             quickly              In general => add -ly
-slow              slowly               In general => add -ly
-bad               badly                In general => add -ly
-happy             happily              adjetives ending in -y => change -y to -i; add -ly
-easy              easily               adjetives ending in -y => change -y to -i; add -ly
-noisy             noisily              adjetives ending in -y => change -y to -i; add -ly
-reasonable        reasonably           adverbs ending in -le => change -le to -ly
-incontrollable    incontrollably       adverbs ending in -le => change -le to -ly
-good              well                 Adjetives and adverbs 
-hard              hard                 that have the same form
-fast              fast
-early             early
-late              late
-right             right
-wrong             wrong
+|Adjetive         |Adverb of manner    |Spelling rules                                        |
+|-----------------|--------------------|------------------------------------------------------|
+|careful          |carefully           |In general => add -ly                                 |
+|quick            |quickly             |In general => add -ly                                 |
+|slow             |slowly              |In general => add -ly                                 |
+|bad              |badly               |In general => add -ly                                 |
+|happy            |happily             |adjetives ending in -y => change -y to -i; add -ly    |
+|easy             |easily              |adjetives ending in -y => change -y to -i; add -ly    |
+|noisy            |noisily             |adjetives ending in -y => change -y to -i; add -ly    |
+|reasonable       |reasonably          |adverbs ending in -le => change -le to -ly            |
+|incontrollable   |incontrollably      |adverbs ending in -le => change -le to -ly            |
+|good             |well                |Adjetives and adverbs                                 |
+|hard             |hard                |that have the same form                               |
+|fast             |fast                |                                                      |
+|early            |early               |                                                      |
+|late             |late                |                                                      |
+|right            |right               |                                                      |
+|wrong            |wrong               |                                                      |
 
-- Adverbs of manner - Use
+#### Adverbs of manner - Use
 
-- Use 1 / We use adverbs of manner after a verb to describe the verb. We use an adverb of manner to say how something happens or how we do something.
-Examples
-It rained heavily. (=We are describing how it rained.)
-He always replies quickly. (=We are describing how he walks)
+Use 1: We use adverbs of manner after a verb to describe the verb. We use an adverb of manner to say how something happens or how we do something. Examples:
+- It rained heavily. (=We are describing how it rained.)
+- He always replies quickly. (=We are describing how he walks)
 
-- Adverbs of manner - Position
+#### Adverbs of manner - Position
 
-- Use 1 / We use adverbs of manner after the verb or, if there is an object, after verb + object.
-Examples
-He drives carefully.
-She plays the guitar well. 
+Use 1: We use adverbs of manner after the verb or, if there is an object, after verb + object. Examples:
+- He drives carefully.
+- She plays the guitar well. 
 
-- Use 2 / We can use very, really, quite before an adverb of manner.
-Examples
-It rained quite heavily. 
-He drives quite carefully. 
-She plays the guitar really well.
+Use 2: We can use very, really, quite before an adverb of manner. Examples:
+- It rained quite heavily. 
+- He drives quite carefully. 
+- She plays the guitar really well.
 
-- Adjetives
+### Adjetives
 
-- We use adjectives before a noun or after the verb be.
-Examples
-This is an expensive guitar. 
-This guitar is expensive. 
+We use adjectives before a noun or after the verb be. Examples:
+- This is an expensive guitar. 
+- This guitar is expensive. 
 
-- Adverbs of manner vs adjectives
+#### Adverbs of manner vs adjectives
 
--- Difference: we use adjectives to describe a noun (before a noun or after the verb be), and we use adverbs of manner to describe a verb (after the verb or verb + object). Compare:
-Examples
-Robert plays the guitar well. (=We are describing the verb, i.e. how Robert plays the guitar.)
-Robert is a good guitar player. (=We are describing the noun, Robert.)
-Sara eats slowly. 
-Sara is a slow eater. 
+Difference: we use adjectives to describe a noun (before a noun or after the verb be), and we use adverbs of manner to describe a verb (after the verb or verb + object). Compare this examples:
+- Robert plays the guitar well. (=We are describing the verb, i.e. how Robert plays the guitar.)
+- Robert is a good guitar player. (=We are describing the noun, Robert.)
+- Sara eats slowly. 
+- Sara is a slow eater. 
  
--- Adjectives ending in -ly: some words end in -ly, but they are adjectives, NOT adverbs: friendly, lovely, silly. We CANNOT transform these adjectives into adverbs of manner.
+Adjectives ending in -ly: some words end in -ly, but they are adjectives, NOT adverbs: friendly, lovely, silly. We CANNOT transform these adjectives into adverbs of manner.
 
-******* Comparative adjectives – older than, more important than, etc.
+### Comparative adjectives - older than, more important than, etc.
 
-- Comparative adjectives: We use "more" + adjective + "than" or adjective + -er + than to compare things or people.
-Examples
-My car is more expensive than your car.
-I am older than my brother.
+Comparative adjectives: We use "more" + adjective + "than" or adjective + -er + than to compare things or people. Examples:
+- My car is more expensive than your car.
+- I am older than my brother.
 
-- Spelling
-Adjetive     Comparative     Spelling rule
-old          older           In general => + -er
-cheap        cheaper         In general => + -er
-high         higher          In general => + -er
-hot          hotter          1 syllable vowel-consonant-vowel => double consonant + -er
-big          bigger          1 syllable vowel-consonant-vowel => double consonant + -er
-thin         thinner         1 syllable vowel-consonant-vowel => double consonant + -er
-healthy      healthier       2 syllables ending -y => -ier
-happy        happier         2 syllables ending -y => -ier
-noisy        noisier         2 syllables ending -y => -ier
-famous       more famous     2 or more syllables => "more" + adjetive
-generous     more generous   2 or more syllables => "more" + adjetive
-good         better          Irregular adjetive
-bad          worse           Irregular adjetive
-far          farther/further Irregular adjetive
+#### Spelling
 
-- Use 1 / We use the comparative form of an adjective to compare two things.
-Examples
-Luke is taller than Mathew.
-This armchair is more comfortable than the sofa.
+|Adjetive    |Comparative    |Spelling rule                                               |
+|------------|---------------|------------------------------------------------------------|
+|old         |older          |In general => + -er                                         |
+|cheap       |cheaper        |In general => + -er                                         |
+|high        |higher         |In general => + -er                                         |
+|hot         |hotter         |1 syllable vowel-consonant-vowel => double consonant + -er  |
+|big         |bigger         |1 syllable vowel-consonant-vowel => double consonant + -er  |
+|thin        |thinner        |1 syllable vowel-consonant-vowel => double consonant + -er  |
+|healthy     |healthier      |2 syllables ending -y => -ier                               |
+|happy       |happier        |2 syllables ending -y => -ier                               |
+|noisy       |noisier        |2 syllables ending -y => -ier                               |
+|famous      |more famous    |2 or more syllables => "more" + adjetive                    |
+|generous    |more generous  |2 or more syllables => "more" + adjetive                    |
+|good        |better         |Irregular adjetive                                          |
+|bad         |worse          |Irregular adjetive                                          |
+|far         |farther/further|Irregular adjetive                                          |
 
-- Use 2 / When we compare two things, we can also use the form less + adjective + than (less ≠ more).
-Examples
-Peter is less popular than Marta. (= Marta is more popular than Peter.)
+#### Use
 
-- Use 3 / If we use a personal pronoun after "than" we need an object pronoun (me, you, him, etc.).
-Examples
-My sister is taller than me.
-His sister is more intelligent than him.
+Use 1: We use the comparative form of an adjective to compare two things. Examples:
+- Luke is taller than Mathew.
+- This armchair is more comfortable than the sofa.
 
-- Use 4 / Before the comparative (more or -er) we can use much (=big difference) or a bit (=small difference).
-Examples
-He’s a bit taller than me.
-Switzerland is much more expensive than Italy.
+Use 2: When we compare two things, we can also use the form less + adjective + than (less ≠ more). Examples:
+- Peter is less popular than Marta. (= Marta is more popular than Peter.)
 
-- Note: We use "than" + the second thing that we are comparing. If we mention the second element of the comparison, we do NOT use "than".
-Examples
-My brother is taller than me.
-I am tall, but my brother is taller. (NOT my brother is taller than.)
+Use 3: If we use a personal pronoun after "than" we need an object pronoun (me, you, him, etc.). Examples:
+- My sister is taller than me.
+- His sister is more intelligent than him.
 
-******* Superlative adjectives – the oldest, the most important, etc.
+Use 4: Before the comparative (more or -er) we can use much (=big difference) or a bit (=small difference). Examples:
+- He’s a bit taller than me.
+- Switzerland is much more expensive than Italy.
 
-- Grammar chart
-Adjetive     Superlative        Spelling rule
-old          the oldest         1 syllable => + -er/-est
-cheap        the cheapest       1 syllable => + -er/-est
-high         the highest        1 syllable => + -er/-est
-hot          the hottest        1 syllable vowel-consonant-vowel => double consonant + -er/-est
-big          the biggest        1 syllable vowel-consonant-vowel => double consonant + -er/-est
-thin         the thinnest       1 syllable vowel-consonant-vowel => double consonant + -er/-est
-healthy      the healthiest     2 syllables ending -y => -ier / -iest
-happy        the happiest       2 syllables ending -y => -ier / -iest
-noisy        the noisiest       2 syllables ending -y => -ier / -iest
-famous       the most famous    2 or more syllables => more / most + adjetive
-generous     the most generous  2 or more syllables => more / most + adjetive
-good         the best           irregular adjetives
-bad          the worst          irregular adjetives
-far          the farthest       irregular adjetives
-             the furthest       irregular adjetives
+Note: We use "than" + the second thing that we are comparing. If we mention the second element of the comparison, we do NOT use "than". Examples:
+- My brother is taller than me.
+- I am tall, but my brother is taller. (NOT my brother is taller than.)
 
-- Use 1 / We use the superlative form of an adjective or adverb to compare three or more things.
-Examples
-Both John and his brother play football, but John is better. 
-John and his two brothers all play football, but John is the best.
+### Superlative adjectives – the oldest, the most important, etc.
 
-- Use 2 / After the superlative we use "in" before names of places or before singular words referring to groups of people (class, school, team, family, etc.)
-Examples
-The Everest is the highest mountain in the world. (NOT of the world)
-She is the best student in the class.
-He’s the tallest in the family.
+#### Grammar chart
 
-- Use 3 / Before the superlative we always use "the" or a possessive adjective (my, your, his, etc.) or noun + possessive ‘s (Paul’s, Elisabeth’s, etc.)
-Examples
-He is the best.
-This is my most expensive jacket.
-This is Paul’s best friend.
+|Adjetive    |Superlative       |Spelling rule                                                   |
+|------------|------------------|----------------------------------------------------------------|
+|old         |the oldest        |1 syllable => + -er/-est                                        |
+|cheap       |the cheapest      |1 syllable => + -er/-est                                        |
+|high        |the highest       |1 syllable => + -er/-est                                        |
+|hot         |the hottest       |1 syllable vowel-consonant-vowel => double consonant + -er/-est |
+|big         |the biggest       |1 syllable vowel-consonant-vowel => double consonant + -er/-est |
+|thin        |the thinnest      |1 syllable vowel-consonant-vowel => double consonant + -er/-est |
+|healthy     |the healthiest    |2 syllables ending -y => -ier / -iest                           |
+|happy       |the happiest      |2 syllables ending -y => -ier / -iest                           |
+|noisy       |the noisiest      |2 syllables ending -y => -ier / -iest                           |
+|famous      |the most famous   |2 or more syllables => more / most + adjetive                   |
+|generous    |the most generous |2 or more syllables => more / most + adjetive                   |
+|good        |the best          |irregular adjetives                                             |
+|bad         |the worst         |irregular adjetives                                             |
+|far         |the farthest      |irregular adjetives                                             |
+|            |the furthest      |irregular adjetives                                             |
+
+#### Uses
+
+Use 1: We use the superlative form of an adjective or adverb to compare three or more things. Examples:
+- Both John and his brother play football, but John is better. 
+- John and his two brothers all play football, but John is the best.
+
+Use 2: After the superlative we use "in" before names of places or before singular words referring to groups of people (class, school, team, family, etc.). Examples:
+- The Everest is the highest mountain in the world. (NOT of the world)
+- She is the best student in the class.
+- He’s the tallest in the family.
+
+Use 3: Before the superlative we always use "the" or a possessive adjective (my, your, his, etc.) or noun + possessive ‘s (Paul’s, Elisabeth’s, etc.). Examples:
+- He is the best.
+- This is my most expensive jacket.
+- This is Paul’s best friend.
 
 ------> Conjunctions <------
 
