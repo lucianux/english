@@ -1333,9 +1333,11 @@ Use 5: We use "it's" + adjective + "to" + infinitive. Examples:
 
 ## Adjectives and adverbs
 
-### Adjectives
+### Adjectives - Form and uses
 
-#### Form
+We use adjectives before a noun or after the verb be. Examples:
+- This is an expensive guitar. 
+- This guitar is expensive. 
 
 Adjective + noun - when we use adjectives with a noun in English, the adjectives go before the noun. Examples:
 - It’s an expensive guitar. (NOT It’s a guitar expensive.)
@@ -1399,12 +1401,6 @@ Use 2: We can use very, really, quite before an adverb of manner. Examples:
 - It rained quite heavily. 
 - He drives quite carefully. 
 - She plays the guitar really well.
-
-### Adjetives
-
-We use adjectives before a noun or after the verb be. Examples:
-- This is an expensive guitar. 
-- This guitar is expensive. 
 
 #### Adverbs of manner vs adjectives
 
@@ -1499,6 +1495,38 @@ Use 3: Before the superlative we always use "the" or a possessive adjective (my,
 - He is the best.
 - This is my most expensive jacket.
 - This is Paul’s best friend.
+
+### Adverbs of frequency with present simple
+
+Adverbs of frequency: We use adverbs of frequency with the present simple to talk about how often something happens.
+
+|%    |Adverb                 | Example                                 |
+|-----|-----------------------|-----------------------------------------|
+|100% |Always                 | You are always late.                    |
+|90%  |Usually                | We usually go to the cinema on Sunday.  |
+|70%  |Often                  | He often cooks pasta.                   |
+|50%  |Sometimes              | We sometimes order pizza for dinner.    |
+|10%  |Hardly ever / Rarely   | She hardly ever smiles.                 |
+|0%   |Never                  | They are never at home when we call.    |
+
+**Notes**
+
+Position: adverbs of frequency go before the verb, but after the verb be.
+
+In negative sentences the adverb of frequency goes after don’t/doesn’t. Examples:
+- We don’t often go to bed late.
+- He doesn’t always agree with me.  
+In questions, adverbs of frequency go after the subject. Examples:
+- Is he always late?
+- Do they often go to the library?
+
+Never / Hardly ever: the adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb. Examples:
+- He is never late. (NOT He isn’t never late.)
+- They hardly ever go to the library. (NOT They don’t hardly ever go to the library.)
+
+- Expressions of frequency: There are other expressions that we use to talk about frequency: once a day, twice a week, three times a month, every day, etc. These expressions are longer (2 words or more) and they go at the end of the sentence. Examples:
+- I brush my teeth three times a day. 
+- I see her every day.
 
 ## Conjunctions - and, but, or, so, because
 
@@ -1850,36 +1878,4 @@ How + adjective/adverb: We can also use "how" + adjective/adverb  as a question 
 - How fast is your car?
 - How big is her house?
 - How often do you do sport?
-
-#### Adverbs of frequency with present simple
-
-Adverbs of frequency: We use adverbs of frequency with the present simple to talk about how often something happens.
-
-|%    |Adverb                 | Example                                 |
-|-----|-----------------------|-----------------------------------------|
-|100% |Always                 | You are always late.                    |
-|90%  |Usually                | We usually go to the cinema on Sunday.  |
-|70%  |Often                  | He often cooks pasta.                   |
-|50%  |Sometimes              | We sometimes order pizza for dinner.    |
-|10%  |Hardly ever / Rarely   | She hardly ever smiles.                 |
-|0%   |Never                  | They are never at home when we call.    |
-
-**Notes**
-
-Position: adverbs of frequency go before the verb, but after the verb be.
-
-In negative sentences the adverb of frequency goes after don’t/doesn’t. Examples:
-- We don’t often go to bed late.
-- He doesn’t always agree with me.  
-In questions, adverbs of frequency go after the subject. Examples:
-- Is he always late?
-- Do they often go to the library?
-
-Never / Hardly ever: the adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb. Examples:
-- He is never late. (NOT He isn’t never late.)
-- They hardly ever go to the library. (NOT They don’t hardly ever go to the library.)
-
-- Expressions of frequency: There are other expressions that we use to talk about frequency: once a day, twice a week, three times a month, every day, etc. These expressions are longer (2 words or more) and they go at the end of the sentence. Examples:
-- I brush my teeth three times a day. 
-- I see her every day.
 
