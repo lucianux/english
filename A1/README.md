@@ -1027,7 +1027,7 @@ After preposition: We use object pronouns after prepositions. Examples:
 - Don’t take it from us.
 - I want to speak to them. 
 
-## a, some, any - Countable and uncountable nouns
+## Countable and uncountable nouns - a, some, any
 
 ### General rules
 
@@ -1095,7 +1095,7 @@ Note: some nouns are uncountable in English, but they are countable in other lan
 
 #### Much / Many
 
-Use / We use much/many in negative sentences and questions. We use many before plural countable nouns and much before uncountable nouns. We don’t normally use them in affirmative sentences. Examples:
+Use: We use much/many in negative sentences and questions. We use many before plural countable nouns and much before uncountable nouns. We don’t normally use them in affirmative sentences. Examples:
 - There isn’t much coffee in the jar
 - Were there many people at the party?
 
