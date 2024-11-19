@@ -1761,135 +1761,125 @@ Under = Abajo | Examples:
 - She is sitting under the tree to stay in the shade. 
 - The keys are under the newspaper on the table.
 
-------> Questions <------
+## Questions
 
-******* Questions – word order and question words
+### Word order and question words
 
-- Word order / Present simple 
+#### Word order / Present simple 
 
--- The order of words in an English question in present simple is (with "do"): QWASI: (Question Word) + Auxiliary + Subject + Infinitive.
-Examples
-What do you do?
-Where do they live?
+The order of words in an English question in present simple is (with "do"): QWASI: (Question Word) + Auxiliary + Subject + Infinitive. Examples:
+- What do you do?
+- Where do they live?
 
--- Questions with am/is/are: when the verb in the sentence is be, we use am/is/are as the auxiliary verb before the subject. Then the word order is QWAS: (Question Word) + Auxiliary (am/is/are) + Subject
-Examples
-What is this?
+Questions with am/is/are: when the verb in the sentence is be, we use am/is/are as the auxiliary verb before the subject. Then the word order is QWAS: (Question Word) + Auxiliary (am/is/are) + Subject. Examples:
+- What is this?
 
--- In Yes-No questions (questions that we answer saying yes or no) there is NO Question Word, either with do or be.
-Examples
-Do you speak English?
-Does she live here?
+In Yes-No questions (questions that we answer saying yes or no) there is NO Question Word, either with do or be. Examples:
+- Do you speak English?
+- Does she live here?
 
 Remember: the auxiliary verb in present simple is be or do/does.
 
-- Word order / Present simple (with verb to be)
+#### Word order / Present simple (with verb to be)
 
--- Questions with do/does
-When we have a verb that is not be, we use do/does as the auxiliary verb.
+Questions with do/does: when we have a verb that is not be, we use do/does as the auxiliary verb.
 
--- Present Simple Questions
-Question word    Auxiliary "be"     Subject         Adjetive, noun, etc.
-                 Is                 Sharon          from the US ?
-How old          are                you ?
-What             is                 this ?
-Where            are                you             from ?
+Present Simple Questions
 
-Question word    Auxiliary verb     Subject         Infinitive
-                 Do                 you             like pizza ?
-Where            do                 you             work ?
-What time        does               he              get up ?
-How often        do                 they            go out ?
-What             do                 you             do ?
+|Question word   |Auxiliary "be"    |Subject        |Adjetive, noun, etc.      |
+|----------------|------------------|---------------|--------------------------|
+|                |Is                |Sharon         |from the US ?             |
+|How old         |are               |you ?          |                          |
+|What            |is                |this ?         |                          |
+|Where           |are               |you            |from ?                    |
 
--- Question Words
+|Question word   |Auxiliary verb    |Subject        |Infinitive                |
+|----------------|------------------|---------------|--------------------------|
+|                |Do                |you            |like pizza ?              |
+|Where           |do                |you            |work ?                    |
+|What time       |does              |he             |get up ?                  |
+|How often       |do                |they           |go out ?                  |
+|What            |do                |you            |do ?                      |
 
-Person: Who
-Examples
-A: Who's that man ?
-B: That's Peter
+#### Question Words
 
-Place: Where
-Examples
-A: Where do you live ?
-B: In London
+Person: Who. Examples:
+- A: Who's that man ?
+- B: That's Peter
 
-Time: When
-Examples
-A: When did he arrive ?
-B: In the afternoon
+Place: Where. Examples:
+- A: Where do you live ?
+- B: In London
 
-Reason: Why
-Examples
-A: Why did you leave ?
-B: Because I was tired
+Time: When. Examples:
+- A: When did he arrive ?
+- B: In the afternoon
 
-Object/Idea/Action: What
-Examples
-A: What do you need ?
-B: I need your car.
+Reason: Why. Examples:
+- A: Why did you leave ?
+- B: Because I was tired
 
-Time: What time
-Examples
-A: What time did he call ?
-B: At seven
+Object/Idea/Action: What. Examples:
+- A: What do you need ?
+- B: I need your car.
 
-Manner: How
-Examples
-A: How did you go ?
-B: By car.
+Time: What time. Examples:
+- A: What time did he call ?
+- B: At seven
 
-Frequency: How often
-A: How often do you go ?
-B: Every day
+Manner: How. Examples:
+- A: How did you go ?
+- B: By car.
 
-Age: How old
-A: How old is your sister ?
-B: She's 27
+Frequency: How often. Examples:
+- A: How often do you go ?
+- B: Every day
 
--- What + noun: We often use the question word "what" + noun as a question word: what time, what colour, what size, etc.
-Examples
-What colour is your jacket?
-What size do you want?
-What car does he have?
+Age: How old. Examples:
+- A: How old is your sister ?
+- B: She's 27
 
--- How + adjective/adverb: We can also use "how" + adjective/adverb  as a question word in phrases like "how often", "how old", "how tall", etc.
-Examples
-How fast is your car?
-How big is her house?
-How often do you do sport?
+**Notes**
 
-------> Word order <------
+What + noun: We often use the question word "what" + noun as a question word: what time, what colour, what size, etc. Examples:
+- What colour is your jacket?
+- What size do you want?
+- What car does he have?
 
-******* Adverbs of frequency with present simple
+How + adjective/adverb: We can also use "how" + adjective/adverb  as a question word in phrases like "how often", "how old", "how tall", etc. Examples:
+- How fast is your car?
+- How big is her house?
+- How often do you do sport?
 
-- Adverbs of frequency: We use adverbs of frequency with the present simple to talk about how often something happens.
+#### Adverbs of frequency with present simple
 
-100% Always    ... You are always late.
-90%  Usually   ... We usually go to the cinema on Sunday.
-70%  Often     ... He often cooks pasta.
-50%  Sometimes ... We sometimes order pizza for dinner.
-10%  Hardly ever / Rarely ... She hardly ever smiles.
-0%   Never     ... They are never at home when we call.
+Adverbs of frequency: We use adverbs of frequency with the present simple to talk about how often something happens.
 
-- Position: adverbs of frequency go before the verb, but after the verb be.
--- In negative sentences the adverb of frequency goes after don’t/doesn’t:
-Examples
-We don’t often go to bed late.
-He doesn’t always agree with me.  
--- In questions, adverbs of frequency go after the subject.
-Examples
-Is he always late?
-Do they often go to the library?
+|%    |Adverb                 | Example                                 |
+|-----|-----------------------|-----------------------------------------|
+|100% |Always                 | You are always late.                    |
+|90%  |Usually                | We usually go to the cinema on Sunday.  |
+|70%  |Often                  | He often cooks pasta.                   |
+|50%  |Sometimes              | We sometimes order pizza for dinner.    |
+|10%  |Hardly ever / Rarely   | She hardly ever smiles.                 |
+|0%   |Never                  | They are never at home when we call.    |
 
-- Never / Hardly ever: the adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb.
-Examples
-He is never late. (NOT He isn’t never late.)
-They hardly ever go to the library. (NOT They don’t hardly ever go to the library.)
+**Notes**
 
-- Expressions of frequency: There are other expressions that we use to talk about frequency: once a day, twice a week, three times a month, every day, etc. These expressions are longer (2 words or more) and they go at the end of the sentence.
-Examples
-I brush my teeth three times a day. 
-I see her every day. 
+Position: adverbs of frequency go before the verb, but after the verb be.
 
+In negative sentences the adverb of frequency goes after don’t/doesn’t. Examples:
+- We don’t often go to bed late.
+- He doesn’t always agree with me.  
+In questions, adverbs of frequency go after the subject. Examples:
+- Is he always late?
+- Do they often go to the library?
+
+Never / Hardly ever: the adverbs never and hardly ever (=almost never) have a negative meaning, but they are used with a positive verb. Examples:
+- He is never late. (NOT He isn’t never late.)
+- They hardly ever go to the library. (NOT They don’t hardly ever go to the library.)
+
+- Expressions of frequency: There are other expressions that we use to talk about frequency: once a day, twice a week, three times a month, every day, etc. These expressions are longer (2 words or more) and they go at the end of the sentence. Examples:
+- I brush my teeth three times a day. 
+- I see her every day.
 
