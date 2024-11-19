@@ -1500,61 +1500,53 @@ Use 3: Before the superlative we always use "the" or a possessive adjective (my,
 - This is my most expensive jacket.
 - This is Paul’s best friend.
 
-------> Conjunctions <------
+## Conjunctions - and, but, or, so, because
 
-******* Conjunctions: and, but, or, so, because
+### AND
 
-- AND
+Use 1: We use "and" for adding similar information or ideas; it means ‘too’ or ‘in addition’. Examples:
+- My brother is a plumber, and my sister is a teacher. 
+- They have an apartment in the city and a little house in the countryside. 
 
--- Use 1 / We use "and" for adding similar information or ideas; it means ‘too’ or ‘in addition’.
-Examples
-My brother is a plumber, and my sister is a teacher. 
-They have an apartment in the city and a little house in the countryside. 
--- Use 2 / When we are connecting sentences, we don’t need to repeat the subject (Tom, I, we, she, etc.)
-Examples
-She got up and left. (=She got up and she left.)
-He was looking at us and smiling. (=He was looking at us and he was smiling.)
+Use 2: When we are connecting sentences, we don’t need to repeat the subject (Tom, I, we, she, etc.). Examples:
+- She got up and left. (=She got up and she left.)
+- He was looking at us and smiling. (=He was looking at us and he was smiling.)
 
-- BUT
+### BUT
 
--- Use 1 / We use "but" for adding contrasting information, i.e. information that is different.
-Examples
-I studied a lot, but I failed the exam.
-He is good but not the best.
+Use 1: We use "but" for adding contrasting information, i.e. information that is different. Examples:
+- I studied a lot, but I failed the exam.
+- He is good but not the best.
 
-- OR
+### OR
 
--- Use 1 / We use "or" to connect different possibilities.
-Examples
-Would you like to go to the swimming pool or to the beach?
-He can go to a hotel or stay with us.
+Use 1: We use "or" to connect different possibilities. Examples:
+- Would you like to go to the swimming pool or to the beach?
+- He can go to a hotel or stay with us.
 
--- Use 2 / We use "or" (NOT "and") in negative sentences to mean ‘not one thing and not another thing’.
-Examples
-(BAD!) I don’t like oranges and lemons.
-(GOOD) I don’t like oranges or lemons. 
+Use 2: We use "or" (NOT "and") in negative sentences to mean ‘not one thing and not another thing’. Examples:
+- (BAD!) I don’t like oranges and lemons.
+- (GOOD) I don’t like oranges or lemons. 
 
-- AND, BUT, OR
+### AND, BUT, OR
 
-- The items that we connect with "and", "but", "or" should be the same grammar type. Check these common mistakes:
-I like dancing and sing. 
-I like dancing and singing. (-ing verb and -ing verb)
-Would you like to go to the beach or having an ice cream in the park?
-Would you like to go to the beach or to have an ice cream in the park? (to-infinitive and to-infinitive)
+The items that we connect with "and", "but", "or" should be the same grammar type. Check these common mistakes:
+- I like dancing and sing. 
+- I like dancing and singing. (-ing verb and -ing verb)
+- Would you like to go to the beach or having an ice cream in the park?
+- Would you like to go to the beach or to have an ice cream in the park? (to-infinitive and to-infinitive)
 
-- SO
+### SO
 
-- Use 1 / We use so to introduce the consequence or the result of something. The second part of the sentence is the result of the first part of the sentence.
-Examples
-It was cold, so I turned on the heating. 
-I spent three hours at the gym, so I’m really tired now.
+Use 1: We use so to introduce the consequence or the result of something. The second part of the sentence is the result of the first part of the sentence. Examples:
+- It was cold, so I turned on the heating. 
+- I spent three hours at the gym, so I’m really tired now.
 
-- BECAUSE
+### BECAUSE
 
-- Use 1 / We use because to introduce the reason for something.
-Examples
-I turned on the heating because it was cold. 
-I’m speaking quietly because I don’t want to wake up the baby. 
+Use 1: We use because to introduce the reason for something. Examples:
+- I turned on the heating because it was cold. 
+- I'm speaking quietly because I don't want to wake up the baby. 
 
 ------> Prepositions <------
 
