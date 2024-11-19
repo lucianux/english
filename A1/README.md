@@ -1027,144 +1027,126 @@ After preposition: We use object pronouns after prepositions. Examples:
 - Don’t take it from us.
 - I want to speak to them. 
 
-******* a, some, any – countable and uncountable nouns
+## a, some, any - Countable and uncountable nouns
 
-- Countable nouns
+### General rules
+
+- Countable nouns: countable nouns are nouns that we can count: car, house, book, etc. We can say one car, two cars, three cars, etc.
+
+- Singular and plural: countable nouns have singular and plural forms: a car/cars, a house/houses, a book/books, etc.
+
+- a/an + singular countable noun: we CANNOT use a singular countable noun without a determiner like a/an or the. Examples:
+  - I have a car. (NOT I have car.)
+  - When I was a child. (NOT When I was child.)
+
+- Uncountable nouns: uncountable nouns are nouns that we cannot count: money, milk, rain, etc. We cannot say one money, two moneys, etc.
+
+- Only singular: uncountable nouns do not have a plural form, they only have a singular form: money/moneys, milk/milks, rain/rains, etc.
+
+- Not a/an: we cannot use a/an + uncountable noun. A/an means "one", and we cannot count uncountable nouns. Examples:
+  - I need money. (NOT a money.)
+  - We need to buy sugar. (NOT a sugar.)
+
+- Some types of words that are typically uncountable are:
+  - Food, drinks and liquids: cheese, bread, pasta, coffee, milk, petrol, fuel, etc.
+  - Materials: iron, wood, metal, paper, plastic, etc.
+  - Abstract ideas and feelings: information, advice, strength, time, love, excitement, etc.
+  - Illnesses: diabetes, alzheimer, cancer, etc.
+  - Languages: English, French, Spanish, etc.
+
+Note: some nouns are uncountable in English, but they are countable in other languages. Some of them are: advice, news (it ends in -s, but it’s a singular word), furniture, luggage, baggage, bread, cheese, toast, etc. as if they were irregular nouns.
+
+- Countable AND uncountable: some nouns can be countable and uncountable because they can refer to a unit or to "mass" or "material". Compare these examples:
+  - Yesterday I had two coffees. (= two cups of coffee)
+  - I love coffee. (= the liquid that we drink)
+  - I found one hair in my soup. (one single hair)
+  - She has beautiful hair. (= the mass of hair on her head)
+
+### Some and Any
+
+- Some/Any: We use "some" and "any" before countable plural nouns or singular uncountable nouns. Examples:
+  - He gave me some coins. 
+  - He didn’t give me any coins.
+  - He gave me some money.
  
-Countable nouns are nouns that we can count: car, house, book, etc. We can say one car, two cars, three cars, etc.
+- Some: We use "some" in positive sentences. Examples:
+  - We cooked some cookies. 
 
-- Singular and plural: Countable nouns have singular and plural forms: a car/cars, a house/houses, a book/books, etc.
+- Any: We use "any" in negative sentences and questions. Examples:
+  - She didn’t send me any messages.
+  - Have you got any brothers or sisters?
 
-- a/an + singular countable noun: We CANNOT use a singular countable noun without a determiner like a/an or the.
-Examples
-I have a car. (NOT I have car.)
-When I was a child. (NOT When I was child.)
+- But we use "some" in questions when we are asking for something or we are offering something. Examples:
+  - Can I have some tea? (=I’m asking for some tea.)
+  - Would you like some tea? (=I’m offering you some tea.)
 
-- Uncountable nouns
+### Much, many, a lot of, a little, a few
+
+#### Summary table
+
+|Sentence  |Countable     |Uncountable  |                               |
+|----------|--------------|-------------|-------------------------------|
+|+         |a lot of      |a lot of     |Large quantity                 |
+|- ?       |Many          |Much         |Large quantity                 |
+|+ - ?     |a few         |a little     |Small quantity                 |
+|+         |no (+ noun)   |no (+ noun)  |Zero quantity                  |
+|- ?       |any (+ noun)  |any (+ noun) |Zero quantity                  |
+|+         |none          |none         |Zero quantity (without a noun) |
+
+#### Much / Many
+
+Use / We use much/many in negative sentences and questions. We use many before plural countable nouns and much before uncountable nouns. We don’t normally use them in affirmative sentences. Examples:
+- There isn’t much coffee in the jar
+- Were there many people at the party?
+
+#### How much / How many
+
+Use: we use "how many" + plural nouns AND "how much" + uncountable nouns to ask about quantity. Examples:
+- How many books did you read last semester?
+- How much coffee do you drink every day?
+
+Note: We can also say "How much is it?" to ask about the price of an item. Examples:
+- ‘How much is it?’ ‘It’s 43 pounds.’
+- ‘How much are the trousers?’ ‘They’re 58 pounds.’
+
+#### A lot (of)
+
+Use 1: We use a lot of before both plural countable and uncountable nouns to talk about big quantity. We normally use a lot of in positive sentences. Examples:
+- She spends a lot of time watching TV.
+- We had lots of good moments together.
+
+Use 2: We can say "quite a lot of" to talk about medium quantity. Example:
+- With my new job, I have quite a lot of free time.
+
+Use 3: It is also possible to use "a lot of" in negative sentences and questions. Examples:
+- Do you eat a lot of sugar?
+- I don’t read a lot of books.
+
+Use 4: We must always use "a lot of" including "of" before a noun. However, we can use "a lot" (without "of") at the end of a sentence or in short answers. Examples:
+- ‘How many beers did you have?’ ‘I don’t know; I had a lot.’
+- I like her a lot.
+- ‘How much coffee did you have?’ ‘A lot.’
+
+#### A few / a little
+
+Use: We use a few before plural countable nouns and a little before uncountable nouns in affirmative, negative and interrogative sentences to talk about small quantity. Examples:
+- I have to do a few things this afternoon.
+- I always put a little milk in my tea.
+
+#### Not many, Not much
+
+Use: We can also use not many + plural countable or not much + uncountable nouns. The meaning is similar. Examples:
+- I don’t have to do many things this afternoon.
+- I don’t put much milk in my tea.
+
+#### No/Not...any/none
  
-Uncountable nouns are nouns that we cannot count: money, milk, rain, etc. We cannot say one money, two moneys, etc.
+Use: When we want to talk about zero quantity, we can use no + noun or not...any + noun. The meaning is the same. Examples:
+- I have no time today.
+- I don’t have any time today.
 
-- Only singular: Uncountable nouns do not have a plural form, they only have a singular form: money/moneys, milk/milks, rain/rains, etc.
-
-- Not a/an: We cannot use a/an + uncountable noun. A/an means ‘one’, and we cannot count uncountable nouns.
-Examples
-I need money. (NOT a money.)
-We need to buy sugar. (NOT a sugar.)
-
-- Types of words that are uncountable
-Some types of words that are typically uncountable are:
--- Food, drinks and liquids: cheese, bread, pasta, coffee, milk, petrol, fuel, etc.
--- Materials: iron, wood, metal, paper, plastic, etc.
--- Abstract ideas and feelings: information, advice, strength, time, love, excitement, etc.
--- Illnesses: diabetes, alzheimer, cancer, etc.
--- Languages: English, French, Spanish, etc.
-
-Note: Some nouns are uncountable in English, but they are countable in other languages. Some of them are: advice, news (it ends in -s, but it’s a singular word), furniture, luggage, baggage, bread, cheese, toast, etc. as if they were irregular nouns.
-
-- Countable AND uncountable
- 
-Some nouns can be countable and uncountable because they can refer to a unit or to "mass" or "material".
-Compare these examples:
-Yesterday I had two coffees. (= two cups of coffee)
-I love coffee. (= the liquid that we drink)
-I found one hair in my soup. (one single hair)
-She has beautiful hair. (= the mass of hair on her head)
-
-- Some and Any
-
--- Some/Any: We use "some" and "any" before countable plural nouns or singular uncountable nouns.
-Examples:
-He gave me some coins. 
-He didn’t give me any coins.
-He gave me some money.
- 
--- Some: We use "some" in positive sentences.
-Examples
-We cooked some cookies. 
-
--- Any: We use "any" in negative sentences and questions.
-Examples
-She didn’t send me any messages.
-Have you got any brothers or sisters?
-
--- But we use "some" in questions when we are asking for something or we are offering something.
-Examples
-Can I have some tea? (=I’m asking for some tea.)
-Would you like some tea? (=I’m offering you some tea.)
-
-******* much, many, a lot of, a little, a few
-
-Summary table
-Sentence   Countable     Uncountable
-+              -- a lot of --          Large
-- ?        Many          Much          quantity
-+ - ?      a few         a little      Small quantity
-
-Much / Many
-
-- Use / We use much/many in negative sentences and questions. We use many before plural countable nouns and much before uncountable nouns. We don’t normally use them in affirmative sentences.
-Examples
-There isn’t much coffee in the jar.
-Were there many people at the party?
-
-How much / How many
-
-- Use / We use "how many" + plural nouns AND "how much" + uncountable nouns to ask about quantity.
-Examples
-How many books did you read last semester?
-How much coffee do you drink every day?
-
-- Note: We can also say "How much is it?" to ask about the price of an item.
-Examples
-‘How much is it?’ ‘It’s 43 pounds.’
-‘How much are the trousers?’ ‘They’re 58 pounds.’
-
-A lot (of)
-
-- Use 1 / We use a lot of before both plural countable and uncountable nouns to talk about big quantity. We normally use a lot of in positive sentences.
-Examples
-She spends a lot of time watching TV.
-We had lots of good moments together.
-
-- Use 2 / We can say "quite a lot of" to talk about medium quantity.
-Example
-With my new job, I have quite a lot of free time.
-
-- Use 3 / It is also possible to use "a lot of" in negative sentences and questions.
-Examples
-Do you eat a lot of sugar?
-I don’t read a lot of books.
-
-- Use 4 / We must always use "a lot of" including "of" before a noun. However, we can use "a lot" (without "of") at the end of a sentence or in short answers.
-Examples
-‘How many beers did you have?’ ‘I don’t know; I had a lot.’
-I like her a lot.
-‘How much coffee did you have?’ ‘A lot.’
-
-A few / a little
-
-- Use / We use a few before plural countable nouns and a little before uncountable nouns in affirmative, negative and interrogative sentences to talk about small quantity.
-Examples
-I have to do a few things this afternoon.
-I always put a little milk in my tea.
-
-Not many, Not much
-
-- Use / We can also use not many + plural countable or not much + uncountable nouns. The meaning is similar.
-Examples
-I don’t have to do many things this afternoon.
-I don’t put much milk in my tea.
-
-No/Not...any/none
- 
-- Use / When we want to talk about zero quantity, we can use no + noun or not...any + noun. The meaning is the same.
-Examples
-I have no time today.
-I don’t have any time today.
-
-- In short answers we use none.
-Example
-‘How much time do you have?’ ‘None.’
+In short answers we use none. Example:
+- ‘How much time do you have?’ ‘None.’
 
 ******* whose, possessive ‘s – Whose is this? It’s Mike’s
 
