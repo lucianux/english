@@ -1548,98 +1548,97 @@ Use 1: We use because to introduce the reason for something. Examples:
 - I turned on the heating because it was cold. 
 - I'm speaking quietly because I don't want to wake up the baby. 
 
-------> Prepositions <------
+## Prepositions
 
-******* at, in, on – prepositions of time
+### at, in, on – prepositions of time
 
-- AT
+#### AT
 
--- Times of day
-at 4 o'clock
-at 10:30am
-at noon
-at midnight
+Times of day
+- at 4 o'clock
+- at 10:30am
+- at noon
+- at midnight
 
--- Mealtimes
-at lunchtime
-at dinnertime
+Mealtimes
+- at lunchtime
+- at dinnertime
 
--- Holidays
-at Christmas
-at Easter
-at the weekend
+Holidays
+- at Christmas
+- at Easter
+- at the weekend
 
--- Expressions
-at present
-at the moment
-at the weekend
-at the same time
-at night
-at sunrise
-at sunset
-at bedtime
+Expressions
+- at present
+- at the moment
+- at the weekend
+- at the same time
+- at night
+- at sunrise
+- at sunset
+- at bedtime
 
-- IN
+#### IN
 
--- Months
-in April
+Months
+- in April
 
--- Seasons
-in the summer
-in the spring
+Seasons
+- in the summer
+- in the spring
 
--- Years
-in 1990
+Years
+- in 1990
 
--- Decades
-in the 80s
+Decades
+- in the 80s
 
--- Centuries
-in the 20th century
+Centuries
+- in the 20th century
 
--- Long periods
-in the ice age
-in the present
-in the past
-in the future
+Long periods
+- in the ice age
+- in the present
+- in the past
+- in the future
 
--- Parts of the day
-in the morning
-in the afternoon
-in the evening
-AT night (EXCEPTION!)
+Parts of the day
+- in the morning
+- in the afternoon
+- in the evening
+- AT night (EXCEPTION!)
 
-- ON
+#### ON
 
--- Days
-on Tuesday
-on Saturday mornings
-on my birthday
-on Christmas day
-on Halloween
-on Independence Day
-on New Year's Eve
+Days
+- on Tuesday
+- on Saturday mornings
+- on my birthday
+- on Christmas day
+- on Halloween
+- on Independence Day
+- on New Year's Eve
 
--- Dates
-on 15th June
-on 20th May
-on 25 December 2010
-on our anniversary
+Dates
+- on 15th June
+- on 20th May
+- on 25 December 2010
+- on our anniversary
 
--- Parts of specific day
-on Monday morning
-on Friday evening
-on Saturday night
-on Sunday afternoon
+Parts of specific day
+- on Monday morning
+- on Friday evening
+- on Saturday night
+- on Sunday afternoon
 
-- LAST, NEXT, EVERY and THIS
+#### LAST, NEXT, EVERY and THIS
 
--- When we say last, next, every, this we do not use at, in, on.
-Examples
-I went to London last June. (NOT in last June)
-He’s coming back next Tuesday. (NOT on next Tuesday)
-I go home every Easter. (NOT at every Easter)
-We’ll call you this evening. (NOT in this evening)
+When we say last, next, every, this we do not use at, in, on. Examples:
+- I went to London last June. (NOT in last June)
+- He’s coming back next Tuesday. (NOT on next Tuesday)
+- I go home every Easter. (NOT at every Easter)
+- We’ll call you this evening. (NOT in this evening)
 
 ******* at, in, on – prepositions of place
 
