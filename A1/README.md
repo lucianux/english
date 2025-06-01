@@ -198,7 +198,7 @@ The form is the same for all the other persons except he/she/it. The spelling fo
 - Is She working?    - Yes, She is   - No, She is not   - No, She isn't
 - Is It working?     - Yes, It is    - No, It is not    - No, It isn't
 - Are We working?    - Yes, We are   - No, We are not   - No, We aren't
-- They We working?   - Yes, They are - No, They are not - No, They aren't
+- Are they working?   - Yes, They are - No, They are not - No, They aren't
 
 Note that we can use short forms only in negative short answers, but not in positive short answers. Examples:
 - ‘Are you writing a book?’ ‘No, I’m not/I am not.’
@@ -222,6 +222,8 @@ Note that we can use short forms only in negative short answers, but not in posi
 - Actions happening around now. We use the present continuous for temporary things that are happening around now (=not at the moment of speaking but these days, or weeks, etc.) Example:
   - I‘m reading a very good book at the moment. (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)
 - Now, these days, at the moment, etc. We use the present continuous with time expressions that mean ‘now’ or ‘around now’: now, at the moment, at present, today, these days, this week, etc.
+- Future plans:
+  - We're **meeting** friends tomorrow.
 
 ## Present simple or present continuous?
 
@@ -269,6 +271,9 @@ We use the present continuous for things that are happening now (at the moment o
 
 - Signal words. We use the present continuous with time expressions that mean now or around now. Some of these expressions are: now, at the moment, at present, today, these days, this week, etc.
 
+- We use it for future plans.
+  - We’re **meeting** friends tomorrow.
+  
 ### Have got
 
 #### Positive
@@ -411,6 +416,7 @@ Some verb are irregular and they don’t add -ed to make the past simple. Some v
 |Drink     |     Drank   |
 |Drive     |     Drove   |
 |Eat       |     Ate     |
+|Feel      |     Felt    |
 |Find      |     Found   |
 |Fly       |     Flew    |
 |Forget    |     Forgot  |
@@ -447,9 +453,9 @@ Some verb are irregular and they don’t add -ed to make the past simple. Some v
 
 ### Past simple / Use
 
-- Use 1 / Past finished actions or states. We can use the past simple to talk about past finished actions or states. We know and we often mention when these actions happened with a past time expression: yesterday, yesterday morning, last night, last week, two days ago, five years ago, etc. Examples:
+- Use 1 / Past finished actions or states. We can use the past simple to talk about past finished actions or states. We know and we often mention when these actions happened with a past **time expression**: yesterday, yesterday morning, last night, last week, two days ago, five years ago, etc. Examples:
   - Jessica called me last night.
-  - Rachel was a very good writer.
+  - She saw a movie last night.
 
 - Use 2 / Past repeated actions. We can use the past simple to talk about habits or repeated actions that happened in the past but don’t happen in the present. We often use adverbs or expressions of frequency (often, always, every day, etc.). Examples:
   - When I was a child, I ate sweets every day. 
@@ -633,6 +639,14 @@ Note: when the  main verb is go, we can exclude it if we want. Examples:
 - Future time expressions. We often use be going to with future time expressions (tomorrow, next week, etc.). Examples:
   - We are going to play cards tonight.
   - She’s going to study biology next year.
+
+#### Will vs Going to
+
+- Will: Decisiones espontáneas.
+- Going to: Planes/intenciones previas.
+- Ejemplo:
+  - "I’ll answer the phone!" (decisión en el momento).
+  - "I’m going to travel to Spain next year" (plan).
 
 ## Modals, the imperative, etc.
 
@@ -1498,6 +1512,11 @@ Use 3: Before the superlative we always use "the" or a possessive adjective (my,
 - This is my most expensive jacket.
 - This is Paul’s best friend.
 
+#### Comparaciones con "as .. as"
+
+- Se usa para comparaciones de igualdad 
+  - Ej.: She is as tall as her brother.
+
 ### Adverbs of frequency with present simple
 
 Adverbs of frequency: We use adverbs of frequency with the present simple to talk about how often something happens.
@@ -1602,7 +1621,8 @@ Holidays
 Expressions
 - at present
 - at the moment
-- at the weekend
+- at the weekend (UK)
+- on the weekend (US)
 - at the same time
 - at night
 - at sunrise
