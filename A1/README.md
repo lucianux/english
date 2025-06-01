@@ -165,6 +165,8 @@ The form is the same for all the other persons except he/she/it. The spelling fo
   - I have two brothers.
   - Water boils at 100 degrees.
   - I like soup.
+- Fixed schedules. Examples:
+  - The train leaves at 8 PM
 
 ### Present continuous – I’m doing, I’m not doing, Are you doing?
 
