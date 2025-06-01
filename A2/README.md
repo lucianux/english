@@ -1,16 +1,14 @@
-----------------------------------------------------
------------------------- List of A2 grammar rules
-----------------------------------------------------
+# List of A2 grammar rules
 
-------> Present tenses <------
+## Present tenses
 
-******* Present simple vs present continuous
+### Present simple vs present continuous
 
-It's a review of what was seen in the previous section.
+- It's a review of what was seen in the previous section (A1).
 
-******* Present perfect – form and use
+### Present perfect – form and use
 
-- Form
+#### Form
 
 - We form the present perfect tense with the verb HAVE and the past participle of the verb. The past participle is the same as the past simple (-ed) for regular verbs. For irregular verbs, it’s the form in the 3rd column.
 
